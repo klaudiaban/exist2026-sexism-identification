@@ -1,0 +1,9479 @@
+[
+  {
+    "test_case": "EXIST2026",
+    "id": "310001",
+    "value": {
+      "NO": 0.530324,
+      "DIRECT": 0.302423,
+      "JUDGEMENTAL": 0.167253
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310002",
+    "value": {
+      "NO": 0.355467,
+      "DIRECT": 0.363823,
+      "JUDGEMENTAL": 0.280711
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310003",
+    "value": {
+      "NO": 0.535683,
+      "DIRECT": 0.323229,
+      "JUDGEMENTAL": 0.141088
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310004",
+    "value": {
+      "NO": 0.372578,
+      "DIRECT": 0.497596,
+      "JUDGEMENTAL": 0.129826
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310005",
+    "value": {
+      "NO": 0.197347,
+      "DIRECT": 0.240776,
+      "JUDGEMENTAL": 0.561877
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310006",
+    "value": {
+      "NO": 0.215482,
+      "DIRECT": 0.507265,
+      "JUDGEMENTAL": 0.277252
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310007",
+    "value": {
+      "NO": 0.321376,
+      "DIRECT": 0.402426,
+      "JUDGEMENTAL": 0.276198
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310008",
+    "value": {
+      "NO": 0.394675,
+      "DIRECT": 0.327589,
+      "JUDGEMENTAL": 0.277735
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310009",
+    "value": {
+      "NO": 0.267435,
+      "DIRECT": 0.280128,
+      "JUDGEMENTAL": 0.452437
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310010",
+    "value": {
+      "NO": 0.341914,
+      "DIRECT": 0.459086,
+      "JUDGEMENTAL": 0.199
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310011",
+    "value": {
+      "NO": 0.321154,
+      "DIRECT": 0.505892,
+      "JUDGEMENTAL": 0.172954
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310012",
+    "value": {
+      "NO": 0.412627,
+      "DIRECT": 0.327421,
+      "JUDGEMENTAL": 0.259952
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310013",
+    "value": {
+      "NO": 0.221007,
+      "DIRECT": 0.211324,
+      "JUDGEMENTAL": 0.567669
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310014",
+    "value": {
+      "NO": 0.17807,
+      "DIRECT": 0.457115,
+      "JUDGEMENTAL": 0.364816
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310015",
+    "value": {
+      "NO": 0.032547,
+      "DIRECT": 0.490253,
+      "JUDGEMENTAL": 0.4772
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310016",
+    "value": {
+      "NO": 0.351684,
+      "DIRECT": 0.424769,
+      "JUDGEMENTAL": 0.223547
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310017",
+    "value": {
+      "NO": 0.423421,
+      "DIRECT": 0.464854,
+      "JUDGEMENTAL": 0.111724
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310018",
+    "value": {
+      "NO": 0.240862,
+      "DIRECT": 0.535549,
+      "JUDGEMENTAL": 0.223589
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310019",
+    "value": {
+      "NO": 0.195872,
+      "DIRECT": 0.632966,
+      "JUDGEMENTAL": 0.171162
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310020",
+    "value": {
+      "NO": 0.390751,
+      "DIRECT": 0.456817,
+      "JUDGEMENTAL": 0.152431
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310021",
+    "value": {
+      "NO": 0.199633,
+      "DIRECT": 0.578665,
+      "JUDGEMENTAL": 0.221702
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310022",
+    "value": {
+      "NO": 0.446453,
+      "DIRECT": 0.432812,
+      "JUDGEMENTAL": 0.120735
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310023",
+    "value": {
+      "NO": 0.271854,
+      "DIRECT": 0.511966,
+      "JUDGEMENTAL": 0.216181
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310024",
+    "value": {
+      "NO": 0.086689,
+      "DIRECT": 0.467522,
+      "JUDGEMENTAL": 0.445789
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310025",
+    "value": {
+      "NO": 0.642248,
+      "DIRECT": 0.195151,
+      "JUDGEMENTAL": 0.162601
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310026",
+    "value": {
+      "NO": 0.448355,
+      "DIRECT": 0.450463,
+      "JUDGEMENTAL": 0.101182
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310027",
+    "value": {
+      "NO": 0.090436,
+      "DIRECT": 0.376186,
+      "JUDGEMENTAL": 0.533378
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310028",
+    "value": {
+      "NO": 0.256689,
+      "DIRECT": 0.487582,
+      "JUDGEMENTAL": 0.255729
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310029",
+    "value": {
+      "NO": 0.289756,
+      "DIRECT": 0.360425,
+      "JUDGEMENTAL": 0.349819
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310030",
+    "value": {
+      "NO": 0.387397,
+      "DIRECT": 0.365053,
+      "JUDGEMENTAL": 0.24755
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310031",
+    "value": {
+      "NO": 0.445894,
+      "DIRECT": 0.270696,
+      "JUDGEMENTAL": 0.28341
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310032",
+    "value": {
+      "NO": 0.314295,
+      "DIRECT": 0.283488,
+      "JUDGEMENTAL": 0.402217
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310033",
+    "value": {
+      "NO": 0.594783,
+      "DIRECT": 0.230378,
+      "JUDGEMENTAL": 0.17484
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310034",
+    "value": {
+      "NO": 0.253364,
+      "DIRECT": 0.324531,
+      "JUDGEMENTAL": 0.422105
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310035",
+    "value": {
+      "NO": 0.47626,
+      "DIRECT": 0.321852,
+      "JUDGEMENTAL": 0.201887
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310036",
+    "value": {
+      "NO": 0.218404,
+      "DIRECT": 0.458654,
+      "JUDGEMENTAL": 0.322942
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310037",
+    "value": {
+      "NO": 0.459874,
+      "DIRECT": 0.344624,
+      "JUDGEMENTAL": 0.195503
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310038",
+    "value": {
+      "NO": 0.487021,
+      "DIRECT": 0.233031,
+      "JUDGEMENTAL": 0.279948
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310039",
+    "value": {
+      "NO": 0.450837,
+      "DIRECT": 0.423363,
+      "JUDGEMENTAL": 0.1258
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310040",
+    "value": {
+      "NO": 0.380619,
+      "DIRECT": 0.349339,
+      "JUDGEMENTAL": 0.270043
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310041",
+    "value": {
+      "NO": 0.40283,
+      "DIRECT": 0.419984,
+      "JUDGEMENTAL": 0.177186
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310042",
+    "value": {
+      "NO": 0.484803,
+      "DIRECT": 0.407735,
+      "JUDGEMENTAL": 0.107462
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310043",
+    "value": {
+      "NO": 0.272862,
+      "DIRECT": 0.489402,
+      "JUDGEMENTAL": 0.237736
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310044",
+    "value": {
+      "NO": 0.189325,
+      "DIRECT": 0.427479,
+      "JUDGEMENTAL": 0.383196
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310045",
+    "value": {
+      "NO": 0.171736,
+      "DIRECT": 0.545493,
+      "JUDGEMENTAL": 0.282771
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310046",
+    "value": {
+      "NO": 0.240193,
+      "DIRECT": 0.433531,
+      "JUDGEMENTAL": 0.326276
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310047",
+    "value": {
+      "NO": 0.322237,
+      "DIRECT": 0.36731,
+      "JUDGEMENTAL": 0.310453
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310048",
+    "value": {
+      "NO": 0.427435,
+      "DIRECT": 0.279312,
+      "JUDGEMENTAL": 0.293253
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310049",
+    "value": {
+      "NO": 0.364643,
+      "DIRECT": 0.454611,
+      "JUDGEMENTAL": 0.180746
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310050",
+    "value": {
+      "NO": 0.243762,
+      "DIRECT": 0.454617,
+      "JUDGEMENTAL": 0.301621
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310051",
+    "value": {
+      "NO": 0.358093,
+      "DIRECT": 0.361753,
+      "JUDGEMENTAL": 0.280154
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310052",
+    "value": {
+      "NO": 0.496394,
+      "DIRECT": 0.300265,
+      "JUDGEMENTAL": 0.203341
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310053",
+    "value": {
+      "NO": 0.627261,
+      "DIRECT": 0.215307,
+      "JUDGEMENTAL": 0.157432
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310054",
+    "value": {
+      "NO": 0.607946,
+      "DIRECT": 0.243922,
+      "JUDGEMENTAL": 0.148131
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310055",
+    "value": {
+      "NO": 0.26528,
+      "DIRECT": 0.284022,
+      "JUDGEMENTAL": 0.450699
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310056",
+    "value": {
+      "NO": 0.345709,
+      "DIRECT": 0.368925,
+      "JUDGEMENTAL": 0.285366
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310057",
+    "value": {
+      "NO": 0.4573,
+      "DIRECT": 0.186029,
+      "JUDGEMENTAL": 0.356671
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310058",
+    "value": {
+      "NO": 0.229036,
+      "DIRECT": 0.437373,
+      "JUDGEMENTAL": 0.333591
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310059",
+    "value": {
+      "NO": 0.461061,
+      "DIRECT": 0.372138,
+      "JUDGEMENTAL": 0.166801
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310060",
+    "value": {
+      "NO": 0.312165,
+      "DIRECT": 0.321054,
+      "JUDGEMENTAL": 0.366782
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310061",
+    "value": {
+      "NO": 0.241551,
+      "DIRECT": 0.3743,
+      "JUDGEMENTAL": 0.384149
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310062",
+    "value": {
+      "NO": 0.287397,
+      "DIRECT": 0.385745,
+      "JUDGEMENTAL": 0.326858
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310063",
+    "value": {
+      "NO": 0.434065,
+      "DIRECT": 0.27559,
+      "JUDGEMENTAL": 0.290345
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310064",
+    "value": {
+      "NO": 0.460568,
+      "DIRECT": 0.428297,
+      "JUDGEMENTAL": 0.111135
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310065",
+    "value": {
+      "NO": 0.289426,
+      "DIRECT": 0.415759,
+      "JUDGEMENTAL": 0.294815
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310066",
+    "value": {
+      "NO": 0.228773,
+      "DIRECT": 0.287255,
+      "JUDGEMENTAL": 0.483973
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310067",
+    "value": {
+      "NO": 0.176761,
+      "DIRECT": 0.476692,
+      "JUDGEMENTAL": 0.346548
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310068",
+    "value": {
+      "NO": 0.51334,
+      "DIRECT": 0.308825,
+      "JUDGEMENTAL": 0.177835
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310069",
+    "value": {
+      "NO": 0.193042,
+      "DIRECT": 0.532386,
+      "JUDGEMENTAL": 0.274571
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310070",
+    "value": {
+      "NO": 0.442655,
+      "DIRECT": 0.249019,
+      "JUDGEMENTAL": 0.308326
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310071",
+    "value": {
+      "NO": 0.427485,
+      "DIRECT": 0.390759,
+      "JUDGEMENTAL": 0.181755
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310072",
+    "value": {
+      "NO": 0.157949,
+      "DIRECT": 0.410484,
+      "JUDGEMENTAL": 0.431567
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310073",
+    "value": {
+      "NO": 0.294939,
+      "DIRECT": 0.529364,
+      "JUDGEMENTAL": 0.175697
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310074",
+    "value": {
+      "NO": 0.555588,
+      "DIRECT": 0.335613,
+      "JUDGEMENTAL": 0.108799
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310075",
+    "value": {
+      "NO": 0.324366,
+      "DIRECT": 0.398424,
+      "JUDGEMENTAL": 0.27721
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310076",
+    "value": {
+      "NO": 0.304604,
+      "DIRECT": 0.406641,
+      "JUDGEMENTAL": 0.288756
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310077",
+    "value": {
+      "NO": 0.53032,
+      "DIRECT": 0.264692,
+      "JUDGEMENTAL": 0.204988
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310078",
+    "value": {
+      "NO": 0.317423,
+      "DIRECT": 0.285691,
+      "JUDGEMENTAL": 0.396885
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310079",
+    "value": {
+      "NO": 0.463984,
+      "DIRECT": 0.358067,
+      "JUDGEMENTAL": 0.177949
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310080",
+    "value": {
+      "NO": 0.521052,
+      "DIRECT": 0.263047,
+      "JUDGEMENTAL": 0.215901
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310081",
+    "value": {
+      "NO": 0.323024,
+      "DIRECT": 0.344678,
+      "JUDGEMENTAL": 0.332298
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310082",
+    "value": {
+      "NO": 0.243938,
+      "DIRECT": 0.459462,
+      "JUDGEMENTAL": 0.296601
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310083",
+    "value": {
+      "NO": 0.394528,
+      "DIRECT": 0.354535,
+      "JUDGEMENTAL": 0.250937
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310084",
+    "value": {
+      "NO": 0.302819,
+      "DIRECT": 0.515421,
+      "JUDGEMENTAL": 0.181759
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310085",
+    "value": {
+      "NO": 0.509722,
+      "DIRECT": 0.278957,
+      "JUDGEMENTAL": 0.21132
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310086",
+    "value": {
+      "NO": 0.341357,
+      "DIRECT": 0.497937,
+      "JUDGEMENTAL": 0.160706
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310087",
+    "value": {
+      "NO": 0.145898,
+      "DIRECT": 0.576589,
+      "JUDGEMENTAL": 0.277514
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310088",
+    "value": {
+      "NO": 0.18267,
+      "DIRECT": 0.458112,
+      "JUDGEMENTAL": 0.359219
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310089",
+    "value": {
+      "NO": 0.05533,
+      "DIRECT": 0.266292,
+      "JUDGEMENTAL": 0.678378
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310090",
+    "value": {
+      "NO": 0.367053,
+      "DIRECT": 0.338556,
+      "JUDGEMENTAL": 0.294391
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310091",
+    "value": {
+      "NO": 0.421533,
+      "DIRECT": 0.40518,
+      "JUDGEMENTAL": 0.173287
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310092",
+    "value": {
+      "NO": 0.095252,
+      "DIRECT": 0.44662,
+      "JUDGEMENTAL": 0.458129
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310093",
+    "value": {
+      "NO": 0.236563,
+      "DIRECT": 0.33801,
+      "JUDGEMENTAL": 0.425427
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310094",
+    "value": {
+      "NO": 0.125967,
+      "DIRECT": 0.41347,
+      "JUDGEMENTAL": 0.460563
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310095",
+    "value": {
+      "NO": 0.430994,
+      "DIRECT": 0.364111,
+      "JUDGEMENTAL": 0.204895
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310096",
+    "value": {
+      "NO": 0.435592,
+      "DIRECT": 0.354952,
+      "JUDGEMENTAL": 0.209456
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310097",
+    "value": {
+      "NO": 0.418046,
+      "DIRECT": 0.420903,
+      "JUDGEMENTAL": 0.16105
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310098",
+    "value": {
+      "NO": 0.679234,
+      "DIRECT": 0.214414,
+      "JUDGEMENTAL": 0.106352
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310099",
+    "value": {
+      "NO": 0.155074,
+      "DIRECT": 0.511021,
+      "JUDGEMENTAL": 0.333905
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310100",
+    "value": {
+      "NO": 0.109365,
+      "DIRECT": 0.579949,
+      "JUDGEMENTAL": 0.310686
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310101",
+    "value": {
+      "NO": 0.383111,
+      "DIRECT": 0.27083,
+      "JUDGEMENTAL": 0.346059
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310102",
+    "value": {
+      "NO": 0.224502,
+      "DIRECT": 0.501608,
+      "JUDGEMENTAL": 0.273889
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310103",
+    "value": {
+      "NO": 0.569054,
+      "DIRECT": 0.319441,
+      "JUDGEMENTAL": 0.111505
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310104",
+    "value": {
+      "NO": 0.179566,
+      "DIRECT": 0.531858,
+      "JUDGEMENTAL": 0.288576
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310105",
+    "value": {
+      "NO": 0.090639,
+      "DIRECT": 0.507805,
+      "JUDGEMENTAL": 0.401556
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310106",
+    "value": {
+      "NO": 0.365311,
+      "DIRECT": 0.463395,
+      "JUDGEMENTAL": 0.171294
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310107",
+    "value": {
+      "NO": 0.513595,
+      "DIRECT": 0.406332,
+      "JUDGEMENTAL": 0.080073
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310108",
+    "value": {
+      "NO": 0.431458,
+      "DIRECT": 0.3378,
+      "JUDGEMENTAL": 0.230742
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310109",
+    "value": {
+      "NO": 0.348736,
+      "DIRECT": 0.327308,
+      "JUDGEMENTAL": 0.323955
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310110",
+    "value": {
+      "NO": 0.442121,
+      "DIRECT": 0.272738,
+      "JUDGEMENTAL": 0.285141
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310111",
+    "value": {
+      "NO": 0.28393,
+      "DIRECT": 0.276545,
+      "JUDGEMENTAL": 0.439525
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310112",
+    "value": {
+      "NO": 0.338785,
+      "DIRECT": 0.561252,
+      "JUDGEMENTAL": 0.099963
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310113",
+    "value": {
+      "NO": 0.255723,
+      "DIRECT": 0.531565,
+      "JUDGEMENTAL": 0.212712
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310114",
+    "value": {
+      "NO": 0.329622,
+      "DIRECT": 0.438725,
+      "JUDGEMENTAL": 0.231653
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310115",
+    "value": {
+      "NO": 0.247328,
+      "DIRECT": 0.536619,
+      "JUDGEMENTAL": 0.216053
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310116",
+    "value": {
+      "NO": 0.21346,
+      "DIRECT": 0.543258,
+      "JUDGEMENTAL": 0.243283
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310117",
+    "value": {
+      "NO": 0.396515,
+      "DIRECT": 0.351464,
+      "JUDGEMENTAL": 0.252021
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310118",
+    "value": {
+      "NO": 0.350937,
+      "DIRECT": 0.309428,
+      "JUDGEMENTAL": 0.339634
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310119",
+    "value": {
+      "NO": 0.17275,
+      "DIRECT": 0.462327,
+      "JUDGEMENTAL": 0.364923
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310120",
+    "value": {
+      "NO": 0.37214,
+      "DIRECT": 0.38094,
+      "JUDGEMENTAL": 0.246919
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310121",
+    "value": {
+      "NO": 0.052418,
+      "DIRECT": 0.619192,
+      "JUDGEMENTAL": 0.328389
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310122",
+    "value": {
+      "NO": 0.154449,
+      "DIRECT": 0.423259,
+      "JUDGEMENTAL": 0.422292
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310123",
+    "value": {
+      "NO": 0.514601,
+      "DIRECT": 0.244801,
+      "JUDGEMENTAL": 0.240598
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310124",
+    "value": {
+      "NO": 0.497574,
+      "DIRECT": 0.36345,
+      "JUDGEMENTAL": 0.138975
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310125",
+    "value": {
+      "NO": 0.221928,
+      "DIRECT": 0.497322,
+      "JUDGEMENTAL": 0.28075
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310126",
+    "value": {
+      "NO": 0.407891,
+      "DIRECT": 0.413278,
+      "JUDGEMENTAL": 0.178831
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310127",
+    "value": {
+      "NO": 0.395076,
+      "DIRECT": 0.441033,
+      "JUDGEMENTAL": 0.16389
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310128",
+    "value": {
+      "NO": 0.338494,
+      "DIRECT": 0.504003,
+      "JUDGEMENTAL": 0.157503
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310129",
+    "value": {
+      "NO": 0.500188,
+      "DIRECT": 0.335423,
+      "JUDGEMENTAL": 0.16439
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310130",
+    "value": {
+      "NO": 0.405495,
+      "DIRECT": 0.395412,
+      "JUDGEMENTAL": 0.199093
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310131",
+    "value": {
+      "NO": 0.521372,
+      "DIRECT": 0.245445,
+      "JUDGEMENTAL": 0.233183
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310132",
+    "value": {
+      "NO": 0.317118,
+      "DIRECT": 0.446031,
+      "JUDGEMENTAL": 0.236852
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310133",
+    "value": {
+      "NO": 0.133853,
+      "DIRECT": 0.42005,
+      "JUDGEMENTAL": 0.446097
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310134",
+    "value": {
+      "NO": 0.475402,
+      "DIRECT": 0.335909,
+      "JUDGEMENTAL": 0.188689
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310135",
+    "value": {
+      "NO": 0.476572,
+      "DIRECT": 0.319258,
+      "JUDGEMENTAL": 0.20417
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310136",
+    "value": {
+      "NO": 0.487178,
+      "DIRECT": 0.336457,
+      "JUDGEMENTAL": 0.176366
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310137",
+    "value": {
+      "NO": 0.469514,
+      "DIRECT": 0.37651,
+      "JUDGEMENTAL": 0.153977
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310138",
+    "value": {
+      "NO": 0.282708,
+      "DIRECT": 0.459233,
+      "JUDGEMENTAL": 0.258058
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310139",
+    "value": {
+      "NO": 0.334491,
+      "DIRECT": 0.261587,
+      "JUDGEMENTAL": 0.403922
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310140",
+    "value": {
+      "NO": 0.136367,
+      "DIRECT": 0.367389,
+      "JUDGEMENTAL": 0.496245
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310141",
+    "value": {
+      "NO": 0.497894,
+      "DIRECT": 0.343739,
+      "JUDGEMENTAL": 0.158367
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310142",
+    "value": {
+      "NO": 0.345994,
+      "DIRECT": 0.251569,
+      "JUDGEMENTAL": 0.402437
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310143",
+    "value": {
+      "NO": 0.334433,
+      "DIRECT": 0.26894,
+      "JUDGEMENTAL": 0.396627
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310144",
+    "value": {
+      "NO": 0.321757,
+      "DIRECT": 0.267698,
+      "JUDGEMENTAL": 0.410545
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310145",
+    "value": {
+      "NO": 0.148216,
+      "DIRECT": 0.4505,
+      "JUDGEMENTAL": 0.401284
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310146",
+    "value": {
+      "NO": 0.268142,
+      "DIRECT": 0.448944,
+      "JUDGEMENTAL": 0.282914
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310147",
+    "value": {
+      "NO": 0.279525,
+      "DIRECT": 0.198855,
+      "JUDGEMENTAL": 0.52162
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310148",
+    "value": {
+      "NO": 0.373837,
+      "DIRECT": 0.424832,
+      "JUDGEMENTAL": 0.201331
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310149",
+    "value": {
+      "NO": 0.235465,
+      "DIRECT": 0.437151,
+      "JUDGEMENTAL": 0.327384
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310150",
+    "value": {
+      "NO": 0.475645,
+      "DIRECT": 0.353811,
+      "JUDGEMENTAL": 0.170543
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310151",
+    "value": {
+      "NO": 0.263551,
+      "DIRECT": 0.441616,
+      "JUDGEMENTAL": 0.294833
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310152",
+    "value": {
+      "NO": 0.135709,
+      "DIRECT": 0.519181,
+      "JUDGEMENTAL": 0.34511
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310153",
+    "value": {
+      "NO": 0.075209,
+      "DIRECT": 0.223535,
+      "JUDGEMENTAL": 0.701256
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310154",
+    "value": {
+      "NO": 0.15539,
+      "DIRECT": 0.427378,
+      "JUDGEMENTAL": 0.417232
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310155",
+    "value": {
+      "NO": 0.375121,
+      "DIRECT": 0.367088,
+      "JUDGEMENTAL": 0.257791
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310156",
+    "value": {
+      "NO": 0.196707,
+      "DIRECT": 0.412479,
+      "JUDGEMENTAL": 0.390814
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310157",
+    "value": {
+      "NO": 0.199318,
+      "DIRECT": 0.605604,
+      "JUDGEMENTAL": 0.195078
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310158",
+    "value": {
+      "NO": 0.337999,
+      "DIRECT": 0.394644,
+      "JUDGEMENTAL": 0.267357
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310159",
+    "value": {
+      "NO": 0.404039,
+      "DIRECT": 0.137142,
+      "JUDGEMENTAL": 0.458819
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310160",
+    "value": {
+      "NO": 0.362353,
+      "DIRECT": 0.443328,
+      "JUDGEMENTAL": 0.194319
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310161",
+    "value": {
+      "NO": 0.282527,
+      "DIRECT": 0.444425,
+      "JUDGEMENTAL": 0.273049
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310162",
+    "value": {
+      "NO": 0.266481,
+      "DIRECT": 0.435402,
+      "JUDGEMENTAL": 0.298116
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310163",
+    "value": {
+      "NO": 0.500636,
+      "DIRECT": 0.386917,
+      "JUDGEMENTAL": 0.112447
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310164",
+    "value": {
+      "NO": 0.394729,
+      "DIRECT": 0.458399,
+      "JUDGEMENTAL": 0.146871
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310165",
+    "value": {
+      "NO": 0.563841,
+      "DIRECT": 0.284369,
+      "JUDGEMENTAL": 0.15179
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310166",
+    "value": {
+      "NO": 0.471877,
+      "DIRECT": 0.262395,
+      "JUDGEMENTAL": 0.265728
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310167",
+    "value": {
+      "NO": 0.203574,
+      "DIRECT": 0.456023,
+      "JUDGEMENTAL": 0.340403
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310168",
+    "value": {
+      "NO": 0.271124,
+      "DIRECT": 0.410796,
+      "JUDGEMENTAL": 0.31808
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310169",
+    "value": {
+      "NO": 0.292169,
+      "DIRECT": 0.435133,
+      "JUDGEMENTAL": 0.272698
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310170",
+    "value": {
+      "NO": 0.170489,
+      "DIRECT": 0.485326,
+      "JUDGEMENTAL": 0.344185
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310171",
+    "value": {
+      "NO": 0.257861,
+      "DIRECT": 0.27272,
+      "JUDGEMENTAL": 0.469419
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310172",
+    "value": {
+      "NO": 0.345998,
+      "DIRECT": 0.404116,
+      "JUDGEMENTAL": 0.249886
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310173",
+    "value": {
+      "NO": 0.551685,
+      "DIRECT": 0.277748,
+      "JUDGEMENTAL": 0.170567
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310174",
+    "value": {
+      "NO": 0.485373,
+      "DIRECT": 0.267691,
+      "JUDGEMENTAL": 0.246935
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310175",
+    "value": {
+      "NO": 0.39444,
+      "DIRECT": 0.443671,
+      "JUDGEMENTAL": 0.161889
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310176",
+    "value": {
+      "NO": 0.497605,
+      "DIRECT": 0.280571,
+      "JUDGEMENTAL": 0.221824
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310177",
+    "value": {
+      "NO": 0.563181,
+      "DIRECT": 0.262553,
+      "JUDGEMENTAL": 0.174266
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310178",
+    "value": {
+      "NO": 0.267779,
+      "DIRECT": 0.543918,
+      "JUDGEMENTAL": 0.188303
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310179",
+    "value": {
+      "NO": 0.580763,
+      "DIRECT": 0.266128,
+      "JUDGEMENTAL": 0.15311
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310180",
+    "value": {
+      "NO": 0.438226,
+      "DIRECT": 0.395538,
+      "JUDGEMENTAL": 0.166236
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310181",
+    "value": {
+      "NO": 0.097857,
+      "DIRECT": 0.532388,
+      "JUDGEMENTAL": 0.369756
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310182",
+    "value": {
+      "NO": 0.121573,
+      "DIRECT": 0.56994,
+      "JUDGEMENTAL": 0.308487
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310183",
+    "value": {
+      "NO": 0.613556,
+      "DIRECT": 0.235229,
+      "JUDGEMENTAL": 0.151215
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310184",
+    "value": {
+      "NO": 0.645428,
+      "DIRECT": 0.22949,
+      "JUDGEMENTAL": 0.125081
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310185",
+    "value": {
+      "NO": 0.071367,
+      "DIRECT": 0.512765,
+      "JUDGEMENTAL": 0.415868
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310186",
+    "value": {
+      "NO": 0.403532,
+      "DIRECT": 0.49169,
+      "JUDGEMENTAL": 0.104778
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310187",
+    "value": {
+      "NO": 0.444557,
+      "DIRECT": 0.396363,
+      "JUDGEMENTAL": 0.15908
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310188",
+    "value": {
+      "NO": 0.320325,
+      "DIRECT": 0.529907,
+      "JUDGEMENTAL": 0.149768
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310189",
+    "value": {
+      "NO": 0.530335,
+      "DIRECT": 0.280716,
+      "JUDGEMENTAL": 0.188949
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310190",
+    "value": {
+      "NO": 0.393826,
+      "DIRECT": 0.437377,
+      "JUDGEMENTAL": 0.168797
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310191",
+    "value": {
+      "NO": 0.314485,
+      "DIRECT": 0.381697,
+      "JUDGEMENTAL": 0.303818
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310192",
+    "value": {
+      "NO": 0.347722,
+      "DIRECT": 0.367427,
+      "JUDGEMENTAL": 0.284851
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310193",
+    "value": {
+      "NO": 0.578167,
+      "DIRECT": 0.253011,
+      "JUDGEMENTAL": 0.168822
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310194",
+    "value": {
+      "NO": 0.456355,
+      "DIRECT": 0.271262,
+      "JUDGEMENTAL": 0.272383
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310195",
+    "value": {
+      "NO": 0.305794,
+      "DIRECT": 0.483191,
+      "JUDGEMENTAL": 0.211016
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310196",
+    "value": {
+      "NO": 0.489864,
+      "DIRECT": 0.322973,
+      "JUDGEMENTAL": 0.187163
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310197",
+    "value": {
+      "NO": 0.368136,
+      "DIRECT": 0.349096,
+      "JUDGEMENTAL": 0.282767
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310198",
+    "value": {
+      "NO": 0.292715,
+      "DIRECT": 0.521976,
+      "JUDGEMENTAL": 0.185309
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310199",
+    "value": {
+      "NO": 0.387895,
+      "DIRECT": 0.359207,
+      "JUDGEMENTAL": 0.252898
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310200",
+    "value": {
+      "NO": 0.232357,
+      "DIRECT": 0.270592,
+      "JUDGEMENTAL": 0.497051
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310201",
+    "value": {
+      "NO": 0.626106,
+      "DIRECT": 0.20581,
+      "JUDGEMENTAL": 0.168083
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310202",
+    "value": {
+      "NO": 0.300639,
+      "DIRECT": 0.449392,
+      "JUDGEMENTAL": 0.249969
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310203",
+    "value": {
+      "NO": 0.349237,
+      "DIRECT": 0.400155,
+      "JUDGEMENTAL": 0.250608
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310204",
+    "value": {
+      "NO": 0.297377,
+      "DIRECT": 0.357832,
+      "JUDGEMENTAL": 0.344791
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310205",
+    "value": {
+      "NO": 0.510997,
+      "DIRECT": 0.193985,
+      "JUDGEMENTAL": 0.295018
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310206",
+    "value": {
+      "NO": 0.5103,
+      "DIRECT": 0.30592,
+      "JUDGEMENTAL": 0.183781
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310207",
+    "value": {
+      "NO": 0.578889,
+      "DIRECT": 0.221934,
+      "JUDGEMENTAL": 0.199178
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310208",
+    "value": {
+      "NO": 0.540481,
+      "DIRECT": 0.359708,
+      "JUDGEMENTAL": 0.099811
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310209",
+    "value": {
+      "NO": 0.1904,
+      "DIRECT": 0.297223,
+      "JUDGEMENTAL": 0.512377
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310210",
+    "value": {
+      "NO": 0.557058,
+      "DIRECT": 0.235347,
+      "JUDGEMENTAL": 0.207595
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310211",
+    "value": {
+      "NO": 0.332727,
+      "DIRECT": 0.494751,
+      "JUDGEMENTAL": 0.172522
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310212",
+    "value": {
+      "NO": 0.219741,
+      "DIRECT": 0.476324,
+      "JUDGEMENTAL": 0.303935
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310213",
+    "value": {
+      "NO": 0.27025,
+      "DIRECT": 0.260888,
+      "JUDGEMENTAL": 0.468863
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310214",
+    "value": {
+      "NO": 0.302362,
+      "DIRECT": 0.407988,
+      "JUDGEMENTAL": 0.289651
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310215",
+    "value": {
+      "NO": 0.656974,
+      "DIRECT": 0.260089,
+      "JUDGEMENTAL": 0.082937
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310216",
+    "value": {
+      "NO": 0.471191,
+      "DIRECT": 0.350129,
+      "JUDGEMENTAL": 0.17868
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310217",
+    "value": {
+      "NO": 0.432872,
+      "DIRECT": 0.463694,
+      "JUDGEMENTAL": 0.103433
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310218",
+    "value": {
+      "NO": 0.311022,
+      "DIRECT": 0.456056,
+      "JUDGEMENTAL": 0.232922
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310219",
+    "value": {
+      "NO": 0.323688,
+      "DIRECT": 0.495063,
+      "JUDGEMENTAL": 0.181249
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310220",
+    "value": {
+      "NO": 0.19152,
+      "DIRECT": 0.600233,
+      "JUDGEMENTAL": 0.208247
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310221",
+    "value": {
+      "NO": 0.421592,
+      "DIRECT": 0.413746,
+      "JUDGEMENTAL": 0.164662
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310222",
+    "value": {
+      "NO": 0.233693,
+      "DIRECT": 0.495541,
+      "JUDGEMENTAL": 0.270766
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310223",
+    "value": {
+      "NO": 0.33857,
+      "DIRECT": 0.360143,
+      "JUDGEMENTAL": 0.301287
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310224",
+    "value": {
+      "NO": 0.138786,
+      "DIRECT": 0.342672,
+      "JUDGEMENTAL": 0.518542
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310225",
+    "value": {
+      "NO": 0.096586,
+      "DIRECT": 0.403308,
+      "JUDGEMENTAL": 0.500106
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310226",
+    "value": {
+      "NO": 0.126111,
+      "DIRECT": 0.346185,
+      "JUDGEMENTAL": 0.527704
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310227",
+    "value": {
+      "NO": 0.086285,
+      "DIRECT": 0.425891,
+      "JUDGEMENTAL": 0.487824
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310228",
+    "value": {
+      "NO": 0.455352,
+      "DIRECT": 0.383179,
+      "JUDGEMENTAL": 0.161469
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310229",
+    "value": {
+      "NO": 0.150667,
+      "DIRECT": 0.602601,
+      "JUDGEMENTAL": 0.246732
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310230",
+    "value": {
+      "NO": 0.321794,
+      "DIRECT": 0.267876,
+      "JUDGEMENTAL": 0.41033
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310231",
+    "value": {
+      "NO": 0.17121,
+      "DIRECT": 0.56488,
+      "JUDGEMENTAL": 0.26391
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310232",
+    "value": {
+      "NO": 0.236313,
+      "DIRECT": 0.334848,
+      "JUDGEMENTAL": 0.428839
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310233",
+    "value": {
+      "NO": 0.246056,
+      "DIRECT": 0.470046,
+      "JUDGEMENTAL": 0.283898
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310234",
+    "value": {
+      "NO": 0.198022,
+      "DIRECT": 0.440131,
+      "JUDGEMENTAL": 0.361847
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310235",
+    "value": {
+      "NO": 0.388441,
+      "DIRECT": 0.372689,
+      "JUDGEMENTAL": 0.23887
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310236",
+    "value": {
+      "NO": 0.491365,
+      "DIRECT": 0.382241,
+      "JUDGEMENTAL": 0.126394
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310237",
+    "value": {
+      "NO": 0.324572,
+      "DIRECT": 0.42296,
+      "JUDGEMENTAL": 0.252469
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310238",
+    "value": {
+      "NO": 0.605598,
+      "DIRECT": 0.308824,
+      "JUDGEMENTAL": 0.085578
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310239",
+    "value": {
+      "NO": 0.54681,
+      "DIRECT": 0.242344,
+      "JUDGEMENTAL": 0.210846
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310240",
+    "value": {
+      "NO": 0.219679,
+      "DIRECT": 0.5045,
+      "JUDGEMENTAL": 0.275821
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310241",
+    "value": {
+      "NO": 0.233461,
+      "DIRECT": 0.437047,
+      "JUDGEMENTAL": 0.329492
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310242",
+    "value": {
+      "NO": 0.461045,
+      "DIRECT": 0.248818,
+      "JUDGEMENTAL": 0.290136
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310243",
+    "value": {
+      "NO": 0.487552,
+      "DIRECT": 0.382835,
+      "JUDGEMENTAL": 0.129613
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310244",
+    "value": {
+      "NO": 0.454913,
+      "DIRECT": 0.473464,
+      "JUDGEMENTAL": 0.071622
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310245",
+    "value": {
+      "NO": 0.364343,
+      "DIRECT": 0.482672,
+      "JUDGEMENTAL": 0.152985
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310246",
+    "value": {
+      "NO": 0.542061,
+      "DIRECT": 0.339979,
+      "JUDGEMENTAL": 0.11796
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310247",
+    "value": {
+      "NO": 0.128757,
+      "DIRECT": 0.43689,
+      "JUDGEMENTAL": 0.434353
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310248",
+    "value": {
+      "NO": 0.336691,
+      "DIRECT": 0.336422,
+      "JUDGEMENTAL": 0.326887
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310249",
+    "value": {
+      "NO": 0.350677,
+      "DIRECT": 0.367741,
+      "JUDGEMENTAL": 0.281583
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310250",
+    "value": {
+      "NO": 0.398994,
+      "DIRECT": 0.403115,
+      "JUDGEMENTAL": 0.197891
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310251",
+    "value": {
+      "NO": 0.122094,
+      "DIRECT": 0.544827,
+      "JUDGEMENTAL": 0.333079
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310252",
+    "value": {
+      "NO": 0.252437,
+      "DIRECT": 0.485179,
+      "JUDGEMENTAL": 0.262384
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310253",
+    "value": {
+      "NO": 0.258238,
+      "DIRECT": 0.347607,
+      "JUDGEMENTAL": 0.394155
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310254",
+    "value": {
+      "NO": 0.533256,
+      "DIRECT": 0.286074,
+      "JUDGEMENTAL": 0.18067
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310255",
+    "value": {
+      "NO": 0.09479,
+      "DIRECT": 0.272239,
+      "JUDGEMENTAL": 0.63297
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310256",
+    "value": {
+      "NO": 0.221007,
+      "DIRECT": 0.408352,
+      "JUDGEMENTAL": 0.370641
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310257",
+    "value": {
+      "NO": 0.743422,
+      "DIRECT": 0.133325,
+      "JUDGEMENTAL": 0.123253
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310258",
+    "value": {
+      "NO": 0.476827,
+      "DIRECT": 0.335643,
+      "JUDGEMENTAL": 0.18753
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310259",
+    "value": {
+      "NO": 0.441183,
+      "DIRECT": 0.326701,
+      "JUDGEMENTAL": 0.232116
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310260",
+    "value": {
+      "NO": 0.473165,
+      "DIRECT": 0.353511,
+      "JUDGEMENTAL": 0.173324
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310261",
+    "value": {
+      "NO": 0.56913,
+      "DIRECT": 0.236723,
+      "JUDGEMENTAL": 0.194147
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310262",
+    "value": {
+      "NO": 0.400867,
+      "DIRECT": 0.256282,
+      "JUDGEMENTAL": 0.342852
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310263",
+    "value": {
+      "NO": 0.416078,
+      "DIRECT": 0.21218,
+      "JUDGEMENTAL": 0.371742
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310264",
+    "value": {
+      "NO": 0.364939,
+      "DIRECT": 0.217042,
+      "JUDGEMENTAL": 0.418019
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310265",
+    "value": {
+      "NO": 0.178302,
+      "DIRECT": 0.468774,
+      "JUDGEMENTAL": 0.352924
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310266",
+    "value": {
+      "NO": 0.325948,
+      "DIRECT": 0.419694,
+      "JUDGEMENTAL": 0.254357
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310267",
+    "value": {
+      "NO": 0.154803,
+      "DIRECT": 0.543474,
+      "JUDGEMENTAL": 0.301724
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310268",
+    "value": {
+      "NO": 0.275192,
+      "DIRECT": 0.379718,
+      "JUDGEMENTAL": 0.345089
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310269",
+    "value": {
+      "NO": 0.222337,
+      "DIRECT": 0.481276,
+      "JUDGEMENTAL": 0.296387
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310270",
+    "value": {
+      "NO": 0.376696,
+      "DIRECT": 0.317403,
+      "JUDGEMENTAL": 0.3059
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310271",
+    "value": {
+      "NO": 0.367043,
+      "DIRECT": 0.291765,
+      "JUDGEMENTAL": 0.341192
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310272",
+    "value": {
+      "NO": 0.14986,
+      "DIRECT": 0.499163,
+      "JUDGEMENTAL": 0.350978
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310273",
+    "value": {
+      "NO": 0.334196,
+      "DIRECT": 0.335951,
+      "JUDGEMENTAL": 0.329853
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310274",
+    "value": {
+      "NO": 0.405114,
+      "DIRECT": 0.371695,
+      "JUDGEMENTAL": 0.223191
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310275",
+    "value": {
+      "NO": 0.253671,
+      "DIRECT": 0.292112,
+      "JUDGEMENTAL": 0.454218
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310276",
+    "value": {
+      "NO": 0.389544,
+      "DIRECT": 0.476924,
+      "JUDGEMENTAL": 0.133532
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310277",
+    "value": {
+      "NO": 0.321515,
+      "DIRECT": 0.556576,
+      "JUDGEMENTAL": 0.121909
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310278",
+    "value": {
+      "NO": 0.307915,
+      "DIRECT": 0.442296,
+      "JUDGEMENTAL": 0.24979
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310279",
+    "value": {
+      "NO": 0.436444,
+      "DIRECT": 0.371565,
+      "JUDGEMENTAL": 0.191991
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310280",
+    "value": {
+      "NO": 0.459272,
+      "DIRECT": 0.269995,
+      "JUDGEMENTAL": 0.270733
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310281",
+    "value": {
+      "NO": 0.345466,
+      "DIRECT": 0.458576,
+      "JUDGEMENTAL": 0.195958
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310282",
+    "value": {
+      "NO": 0.317517,
+      "DIRECT": 0.438467,
+      "JUDGEMENTAL": 0.244016
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310283",
+    "value": {
+      "NO": 0.337703,
+      "DIRECT": 0.458765,
+      "JUDGEMENTAL": 0.203532
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310284",
+    "value": {
+      "NO": 0.423438,
+      "DIRECT": 0.352275,
+      "JUDGEMENTAL": 0.224287
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310285",
+    "value": {
+      "NO": 0.382284,
+      "DIRECT": 0.362741,
+      "JUDGEMENTAL": 0.254975
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310286",
+    "value": {
+      "NO": 0.453119,
+      "DIRECT": 0.317357,
+      "JUDGEMENTAL": 0.229524
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310287",
+    "value": {
+      "NO": 0.145376,
+      "DIRECT": 0.264742,
+      "JUDGEMENTAL": 0.589882
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310288",
+    "value": {
+      "NO": 0.088331,
+      "DIRECT": 0.579225,
+      "JUDGEMENTAL": 0.332445
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310289",
+    "value": {
+      "NO": 0.263471,
+      "DIRECT": 0.361767,
+      "JUDGEMENTAL": 0.374763
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310290",
+    "value": {
+      "NO": 0.415768,
+      "DIRECT": 0.386333,
+      "JUDGEMENTAL": 0.197898
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310291",
+    "value": {
+      "NO": 0.448957,
+      "DIRECT": 0.250377,
+      "JUDGEMENTAL": 0.300667
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310292",
+    "value": {
+      "NO": 0.277656,
+      "DIRECT": 0.408934,
+      "JUDGEMENTAL": 0.31341
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310293",
+    "value": {
+      "NO": 0.183218,
+      "DIRECT": 0.529054,
+      "JUDGEMENTAL": 0.287728
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310294",
+    "value": {
+      "NO": 0.416243,
+      "DIRECT": 0.313645,
+      "JUDGEMENTAL": 0.270112
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310295",
+    "value": {
+      "NO": 0.23513,
+      "DIRECT": 0.329499,
+      "JUDGEMENTAL": 0.435371
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310296",
+    "value": {
+      "NO": 0.283781,
+      "DIRECT": 0.301326,
+      "JUDGEMENTAL": 0.414893
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310297",
+    "value": {
+      "NO": 0.129545,
+      "DIRECT": 0.461351,
+      "JUDGEMENTAL": 0.409105
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310298",
+    "value": {
+      "NO": 0.544731,
+      "DIRECT": 0.315925,
+      "JUDGEMENTAL": 0.139344
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310299",
+    "value": {
+      "NO": 0.252659,
+      "DIRECT": 0.441954,
+      "JUDGEMENTAL": 0.305387
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310300",
+    "value": {
+      "NO": 0.30948,
+      "DIRECT": 0.265278,
+      "JUDGEMENTAL": 0.425242
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310301",
+    "value": {
+      "NO": 0.345355,
+      "DIRECT": 0.304631,
+      "JUDGEMENTAL": 0.350014
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310302",
+    "value": {
+      "NO": 0.144251,
+      "DIRECT": 0.367976,
+      "JUDGEMENTAL": 0.487773
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310303",
+    "value": {
+      "NO": 0.128294,
+      "DIRECT": 0.535201,
+      "JUDGEMENTAL": 0.336505
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310304",
+    "value": {
+      "NO": 0.332649,
+      "DIRECT": 0.467218,
+      "JUDGEMENTAL": 0.200133
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310305",
+    "value": {
+      "NO": 0.21829,
+      "DIRECT": 0.418301,
+      "JUDGEMENTAL": 0.363408
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310306",
+    "value": {
+      "NO": 0.369382,
+      "DIRECT": 0.400514,
+      "JUDGEMENTAL": 0.230104
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310307",
+    "value": {
+      "NO": 0.187147,
+      "DIRECT": 0.401429,
+      "JUDGEMENTAL": 0.411424
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310308",
+    "value": {
+      "NO": 0.24844,
+      "DIRECT": 0.492845,
+      "JUDGEMENTAL": 0.258715
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310309",
+    "value": {
+      "NO": 0.531041,
+      "DIRECT": 0.295323,
+      "JUDGEMENTAL": 0.173635
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310310",
+    "value": {
+      "NO": 0.296786,
+      "DIRECT": 0.389462,
+      "JUDGEMENTAL": 0.313752
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310311",
+    "value": {
+      "NO": 0.299437,
+      "DIRECT": 0.314099,
+      "JUDGEMENTAL": 0.386464
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310312",
+    "value": {
+      "NO": 0.134282,
+      "DIRECT": 0.470243,
+      "JUDGEMENTAL": 0.395475
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310313",
+    "value": {
+      "NO": 0.508921,
+      "DIRECT": 0.291315,
+      "JUDGEMENTAL": 0.199763
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310314",
+    "value": {
+      "NO": 0.420667,
+      "DIRECT": 0.395252,
+      "JUDGEMENTAL": 0.184081
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310315",
+    "value": {
+      "NO": 0.435024,
+      "DIRECT": 0.324587,
+      "JUDGEMENTAL": 0.240389
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310316",
+    "value": {
+      "NO": 0.262732,
+      "DIRECT": 0.371945,
+      "JUDGEMENTAL": 0.365323
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310317",
+    "value": {
+      "NO": 0.551986,
+      "DIRECT": 0.258731,
+      "JUDGEMENTAL": 0.189283
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310318",
+    "value": {
+      "NO": 0.375988,
+      "DIRECT": 0.252999,
+      "JUDGEMENTAL": 0.371013
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310319",
+    "value": {
+      "NO": 0.50756,
+      "DIRECT": 0.303935,
+      "JUDGEMENTAL": 0.188505
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310320",
+    "value": {
+      "NO": 0.320455,
+      "DIRECT": 0.465021,
+      "JUDGEMENTAL": 0.214524
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310321",
+    "value": {
+      "NO": 0.077036,
+      "DIRECT": 0.579152,
+      "JUDGEMENTAL": 0.343812
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310322",
+    "value": {
+      "NO": 0.206116,
+      "DIRECT": 0.290469,
+      "JUDGEMENTAL": 0.503414
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310323",
+    "value": {
+      "NO": 0.146393,
+      "DIRECT": 0.549887,
+      "JUDGEMENTAL": 0.303719
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310324",
+    "value": {
+      "NO": 0.321041,
+      "DIRECT": 0.379026,
+      "JUDGEMENTAL": 0.299933
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310325",
+    "value": {
+      "NO": 0.158257,
+      "DIRECT": 0.399637,
+      "JUDGEMENTAL": 0.442106
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310326",
+    "value": {
+      "NO": 0.439189,
+      "DIRECT": 0.349237,
+      "JUDGEMENTAL": 0.211573
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310327",
+    "value": {
+      "NO": 0.431041,
+      "DIRECT": 0.249908,
+      "JUDGEMENTAL": 0.319051
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310328",
+    "value": {
+      "NO": 0.186733,
+      "DIRECT": 0.280197,
+      "JUDGEMENTAL": 0.53307
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310329",
+    "value": {
+      "NO": 0.36267,
+      "DIRECT": 0.292027,
+      "JUDGEMENTAL": 0.345303
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310330",
+    "value": {
+      "NO": 0.405994,
+      "DIRECT": 0.317882,
+      "JUDGEMENTAL": 0.276123
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310331",
+    "value": {
+      "NO": 0.328809,
+      "DIRECT": 0.40146,
+      "JUDGEMENTAL": 0.269731
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310332",
+    "value": {
+      "NO": 0.482464,
+      "DIRECT": 0.259606,
+      "JUDGEMENTAL": 0.25793
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310333",
+    "value": {
+      "NO": 0.404568,
+      "DIRECT": 0.416303,
+      "JUDGEMENTAL": 0.179129
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310334",
+    "value": {
+      "NO": 0.380286,
+      "DIRECT": 0.449277,
+      "JUDGEMENTAL": 0.170438
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310335",
+    "value": {
+      "NO": 0.233345,
+      "DIRECT": 0.551555,
+      "JUDGEMENTAL": 0.2151
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310336",
+    "value": {
+      "NO": 0.231339,
+      "DIRECT": 0.391444,
+      "JUDGEMENTAL": 0.377217
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310337",
+    "value": {
+      "NO": 0.055049,
+      "DIRECT": 0.308206,
+      "JUDGEMENTAL": 0.636745
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310338",
+    "value": {
+      "NO": 0.071672,
+      "DIRECT": 0.296087,
+      "JUDGEMENTAL": 0.632241
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310339",
+    "value": {
+      "NO": 0.264605,
+      "DIRECT": 0.403185,
+      "JUDGEMENTAL": 0.33221
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310340",
+    "value": {
+      "NO": 0.120664,
+      "DIRECT": 0.492768,
+      "JUDGEMENTAL": 0.386568
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310341",
+    "value": {
+      "NO": 0.520605,
+      "DIRECT": 0.272058,
+      "JUDGEMENTAL": 0.207337
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310342",
+    "value": {
+      "NO": 0.346689,
+      "DIRECT": 0.410415,
+      "JUDGEMENTAL": 0.242896
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310343",
+    "value": {
+      "NO": 0.366518,
+      "DIRECT": 0.269964,
+      "JUDGEMENTAL": 0.363518
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310344",
+    "value": {
+      "NO": 0.336414,
+      "DIRECT": 0.4749,
+      "JUDGEMENTAL": 0.188686
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310345",
+    "value": {
+      "NO": 0.257733,
+      "DIRECT": 0.527474,
+      "JUDGEMENTAL": 0.214793
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310346",
+    "value": {
+      "NO": 0.565335,
+      "DIRECT": 0.293723,
+      "JUDGEMENTAL": 0.140942
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310347",
+    "value": {
+      "NO": 0.575661,
+      "DIRECT": 0.332734,
+      "JUDGEMENTAL": 0.091605
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310348",
+    "value": {
+      "NO": 0.270283,
+      "DIRECT": 0.519989,
+      "JUDGEMENTAL": 0.209729
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310349",
+    "value": {
+      "NO": 0.43551,
+      "DIRECT": 0.379419,
+      "JUDGEMENTAL": 0.185071
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310350",
+    "value": {
+      "NO": 0.255931,
+      "DIRECT": 0.415111,
+      "JUDGEMENTAL": 0.328958
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310351",
+    "value": {
+      "NO": 0.20562,
+      "DIRECT": 0.652933,
+      "JUDGEMENTAL": 0.141447
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310352",
+    "value": {
+      "NO": 0.32576,
+      "DIRECT": 0.576658,
+      "JUDGEMENTAL": 0.097583
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310353",
+    "value": {
+      "NO": 0.34416,
+      "DIRECT": 0.450722,
+      "JUDGEMENTAL": 0.205118
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310354",
+    "value": {
+      "NO": 0.560048,
+      "DIRECT": 0.308771,
+      "JUDGEMENTAL": 0.131181
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310355",
+    "value": {
+      "NO": 0.158225,
+      "DIRECT": 0.226438,
+      "JUDGEMENTAL": 0.615337
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310356",
+    "value": {
+      "NO": 0.177289,
+      "DIRECT": 0.306049,
+      "JUDGEMENTAL": 0.516662
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310357",
+    "value": {
+      "NO": 0.440382,
+      "DIRECT": 0.303419,
+      "JUDGEMENTAL": 0.256199
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310358",
+    "value": {
+      "NO": 0.471459,
+      "DIRECT": 0.395219,
+      "JUDGEMENTAL": 0.133322
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310359",
+    "value": {
+      "NO": 0.433123,
+      "DIRECT": 0.300437,
+      "JUDGEMENTAL": 0.26644
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310360",
+    "value": {
+      "NO": 0.147094,
+      "DIRECT": 0.446839,
+      "JUDGEMENTAL": 0.406067
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310361",
+    "value": {
+      "NO": 0.335762,
+      "DIRECT": 0.40807,
+      "JUDGEMENTAL": 0.256168
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310362",
+    "value": {
+      "NO": 0.664091,
+      "DIRECT": 0.217529,
+      "JUDGEMENTAL": 0.118379
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310363",
+    "value": {
+      "NO": 0.178636,
+      "DIRECT": 0.556914,
+      "JUDGEMENTAL": 0.26445
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310364",
+    "value": {
+      "NO": 0.112531,
+      "DIRECT": 0.345434,
+      "JUDGEMENTAL": 0.542035
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310365",
+    "value": {
+      "NO": 0.1082,
+      "DIRECT": 0.600332,
+      "JUDGEMENTAL": 0.291468
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310366",
+    "value": {
+      "NO": 0.317661,
+      "DIRECT": 0.43556,
+      "JUDGEMENTAL": 0.246779
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310367",
+    "value": {
+      "NO": 0.246863,
+      "DIRECT": 0.551336,
+      "JUDGEMENTAL": 0.201802
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310368",
+    "value": {
+      "NO": 0.138508,
+      "DIRECT": 0.627063,
+      "JUDGEMENTAL": 0.234429
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310369",
+    "value": {
+      "NO": 0.281603,
+      "DIRECT": 0.36069,
+      "JUDGEMENTAL": 0.357707
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310370",
+    "value": {
+      "NO": 0.131232,
+      "DIRECT": 0.572577,
+      "JUDGEMENTAL": 0.296191
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310371",
+    "value": {
+      "NO": 0.113646,
+      "DIRECT": 0.507167,
+      "JUDGEMENTAL": 0.379187
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310372",
+    "value": {
+      "NO": 0.313205,
+      "DIRECT": 0.443481,
+      "JUDGEMENTAL": 0.243314
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310373",
+    "value": {
+      "NO": 0.165842,
+      "DIRECT": 0.597978,
+      "JUDGEMENTAL": 0.23618
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310374",
+    "value": {
+      "NO": 0.354959,
+      "DIRECT": 0.466202,
+      "JUDGEMENTAL": 0.17884
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310375",
+    "value": {
+      "NO": 0.517387,
+      "DIRECT": 0.360194,
+      "JUDGEMENTAL": 0.12242
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310376",
+    "value": {
+      "NO": 0.179585,
+      "DIRECT": 0.399801,
+      "JUDGEMENTAL": 0.420615
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310377",
+    "value": {
+      "NO": 0.147591,
+      "DIRECT": 0.308325,
+      "JUDGEMENTAL": 0.544084
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310378",
+    "value": {
+      "NO": 0.265807,
+      "DIRECT": 0.41857,
+      "JUDGEMENTAL": 0.315624
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310379",
+    "value": {
+      "NO": 0.216258,
+      "DIRECT": 0.394278,
+      "JUDGEMENTAL": 0.389464
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310380",
+    "value": {
+      "NO": 0.108922,
+      "DIRECT": 0.445611,
+      "JUDGEMENTAL": 0.445467
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310381",
+    "value": {
+      "NO": 0.188388,
+      "DIRECT": 0.378057,
+      "JUDGEMENTAL": 0.433555
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310382",
+    "value": {
+      "NO": 0.52477,
+      "DIRECT": 0.291368,
+      "JUDGEMENTAL": 0.183862
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310383",
+    "value": {
+      "NO": 0.307883,
+      "DIRECT": 0.281528,
+      "JUDGEMENTAL": 0.410589
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310384",
+    "value": {
+      "NO": 0.198236,
+      "DIRECT": 0.327118,
+      "JUDGEMENTAL": 0.474646
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310385",
+    "value": {
+      "NO": 0.36831,
+      "DIRECT": 0.422506,
+      "JUDGEMENTAL": 0.209184
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310386",
+    "value": {
+      "NO": 0.417483,
+      "DIRECT": 0.317044,
+      "JUDGEMENTAL": 0.265473
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310387",
+    "value": {
+      "NO": 0.108188,
+      "DIRECT": 0.301297,
+      "JUDGEMENTAL": 0.590514
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310388",
+    "value": {
+      "NO": 0.180298,
+      "DIRECT": 0.626228,
+      "JUDGEMENTAL": 0.193474
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310389",
+    "value": {
+      "NO": 0.314743,
+      "DIRECT": 0.324419,
+      "JUDGEMENTAL": 0.360838
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310390",
+    "value": {
+      "NO": 0.207496,
+      "DIRECT": 0.225692,
+      "JUDGEMENTAL": 0.566812
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310391",
+    "value": {
+      "NO": 0.229568,
+      "DIRECT": 0.337027,
+      "JUDGEMENTAL": 0.433404
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310392",
+    "value": {
+      "NO": 0.32926,
+      "DIRECT": 0.341905,
+      "JUDGEMENTAL": 0.328835
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310393",
+    "value": {
+      "NO": 0.184189,
+      "DIRECT": 0.45486,
+      "JUDGEMENTAL": 0.360951
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310394",
+    "value": {
+      "NO": 0.13412,
+      "DIRECT": 0.299789,
+      "JUDGEMENTAL": 0.566091
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310395",
+    "value": {
+      "NO": 0.196868,
+      "DIRECT": 0.405134,
+      "JUDGEMENTAL": 0.397998
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310396",
+    "value": {
+      "NO": 0.426873,
+      "DIRECT": 0.320212,
+      "JUDGEMENTAL": 0.252915
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310397",
+    "value": {
+      "NO": 0.559374,
+      "DIRECT": 0.19812,
+      "JUDGEMENTAL": 0.242505
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310398",
+    "value": {
+      "NO": 0.335459,
+      "DIRECT": 0.500092,
+      "JUDGEMENTAL": 0.164449
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310399",
+    "value": {
+      "NO": 0.279976,
+      "DIRECT": 0.314291,
+      "JUDGEMENTAL": 0.405733
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310400",
+    "value": {
+      "NO": 0.472027,
+      "DIRECT": 0.36635,
+      "JUDGEMENTAL": 0.161623
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310401",
+    "value": {
+      "NO": 0.241005,
+      "DIRECT": 0.622998,
+      "JUDGEMENTAL": 0.135997
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310402",
+    "value": {
+      "NO": 0.25364,
+      "DIRECT": 0.375109,
+      "JUDGEMENTAL": 0.37125
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310403",
+    "value": {
+      "NO": 0.194059,
+      "DIRECT": 0.496113,
+      "JUDGEMENTAL": 0.309828
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310404",
+    "value": {
+      "NO": 0.36783,
+      "DIRECT": 0.308558,
+      "JUDGEMENTAL": 0.323612
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310405",
+    "value": {
+      "NO": 0.384331,
+      "DIRECT": 0.286626,
+      "JUDGEMENTAL": 0.329042
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310406",
+    "value": {
+      "NO": 0.555052,
+      "DIRECT": 0.214059,
+      "JUDGEMENTAL": 0.230889
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310407",
+    "value": {
+      "NO": 0.457769,
+      "DIRECT": 0.301149,
+      "JUDGEMENTAL": 0.241081
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310408",
+    "value": {
+      "NO": 0.219458,
+      "DIRECT": 0.415748,
+      "JUDGEMENTAL": 0.364794
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310409",
+    "value": {
+      "NO": 0.249844,
+      "DIRECT": 0.429414,
+      "JUDGEMENTAL": 0.320743
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310410",
+    "value": {
+      "NO": 0.288028,
+      "DIRECT": 0.445843,
+      "JUDGEMENTAL": 0.266129
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310411",
+    "value": {
+      "NO": 0.261529,
+      "DIRECT": 0.231142,
+      "JUDGEMENTAL": 0.507329
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310412",
+    "value": {
+      "NO": 0.290918,
+      "DIRECT": 0.505371,
+      "JUDGEMENTAL": 0.203711
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310413",
+    "value": {
+      "NO": 0.32921,
+      "DIRECT": 0.409414,
+      "JUDGEMENTAL": 0.261376
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310414",
+    "value": {
+      "NO": 0.286665,
+      "DIRECT": 0.448008,
+      "JUDGEMENTAL": 0.265327
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310415",
+    "value": {
+      "NO": 0.247318,
+      "DIRECT": 0.51898,
+      "JUDGEMENTAL": 0.233702
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310416",
+    "value": {
+      "NO": 0.245906,
+      "DIRECT": 0.29702,
+      "JUDGEMENTAL": 0.457074
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310417",
+    "value": {
+      "NO": 0.164144,
+      "DIRECT": 0.500399,
+      "JUDGEMENTAL": 0.335457
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310418",
+    "value": {
+      "NO": 0.343112,
+      "DIRECT": 0.294813,
+      "JUDGEMENTAL": 0.362075
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310419",
+    "value": {
+      "NO": 0.098408,
+      "DIRECT": 0.42019,
+      "JUDGEMENTAL": 0.481401
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310420",
+    "value": {
+      "NO": 0.267654,
+      "DIRECT": 0.453412,
+      "JUDGEMENTAL": 0.278934
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310421",
+    "value": {
+      "NO": 0.084007,
+      "DIRECT": 0.618323,
+      "JUDGEMENTAL": 0.29767
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310422",
+    "value": {
+      "NO": 0.442438,
+      "DIRECT": 0.311315,
+      "JUDGEMENTAL": 0.246246
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310423",
+    "value": {
+      "NO": 0.33307,
+      "DIRECT": 0.299081,
+      "JUDGEMENTAL": 0.367849
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310424",
+    "value": {
+      "NO": 0.39337,
+      "DIRECT": 0.445566,
+      "JUDGEMENTAL": 0.161064
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310425",
+    "value": {
+      "NO": 0.348843,
+      "DIRECT": 0.376114,
+      "JUDGEMENTAL": 0.275043
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310426",
+    "value": {
+      "NO": 0.530347,
+      "DIRECT": 0.325673,
+      "JUDGEMENTAL": 0.14398
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310427",
+    "value": {
+      "NO": 0.157703,
+      "DIRECT": 0.553495,
+      "JUDGEMENTAL": 0.288802
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310428",
+    "value": {
+      "NO": 0.304084,
+      "DIRECT": 0.589768,
+      "JUDGEMENTAL": 0.106148
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310429",
+    "value": {
+      "NO": 0.534899,
+      "DIRECT": 0.343947,
+      "JUDGEMENTAL": 0.121154
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310430",
+    "value": {
+      "NO": 0.19901,
+      "DIRECT": 0.48275,
+      "JUDGEMENTAL": 0.31824
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310431",
+    "value": {
+      "NO": 0.341508,
+      "DIRECT": 0.486857,
+      "JUDGEMENTAL": 0.171635
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310432",
+    "value": {
+      "NO": 0.260693,
+      "DIRECT": 0.441509,
+      "JUDGEMENTAL": 0.297799
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310433",
+    "value": {
+      "NO": 0.370693,
+      "DIRECT": 0.449761,
+      "JUDGEMENTAL": 0.179547
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310434",
+    "value": {
+      "NO": 0.284266,
+      "DIRECT": 0.535216,
+      "JUDGEMENTAL": 0.180518
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310435",
+    "value": {
+      "NO": 0.52731,
+      "DIRECT": 0.281016,
+      "JUDGEMENTAL": 0.191673
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310436",
+    "value": {
+      "NO": 0.317816,
+      "DIRECT": 0.510321,
+      "JUDGEMENTAL": 0.171862
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310437",
+    "value": {
+      "NO": 0.541129,
+      "DIRECT": 0.265244,
+      "JUDGEMENTAL": 0.193627
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310438",
+    "value": {
+      "NO": 0.469408,
+      "DIRECT": 0.412203,
+      "JUDGEMENTAL": 0.11839
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310439",
+    "value": {
+      "NO": 0.547988,
+      "DIRECT": 0.262883,
+      "JUDGEMENTAL": 0.189129
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310440",
+    "value": {
+      "NO": 0.295286,
+      "DIRECT": 0.405687,
+      "JUDGEMENTAL": 0.299027
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310441",
+    "value": {
+      "NO": 0.212702,
+      "DIRECT": 0.293777,
+      "JUDGEMENTAL": 0.49352
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310442",
+    "value": {
+      "NO": 0.399051,
+      "DIRECT": 0.329961,
+      "JUDGEMENTAL": 0.270989
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310443",
+    "value": {
+      "NO": 0.361072,
+      "DIRECT": 0.29392,
+      "JUDGEMENTAL": 0.345008
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310444",
+    "value": {
+      "NO": 0.131979,
+      "DIRECT": 0.304857,
+      "JUDGEMENTAL": 0.563164
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310445",
+    "value": {
+      "NO": 0.137637,
+      "DIRECT": 0.445022,
+      "JUDGEMENTAL": 0.417341
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310446",
+    "value": {
+      "NO": 0.361801,
+      "DIRECT": 0.488653,
+      "JUDGEMENTAL": 0.149546
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310447",
+    "value": {
+      "NO": 0.325589,
+      "DIRECT": 0.416753,
+      "JUDGEMENTAL": 0.257657
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310448",
+    "value": {
+      "NO": 0.417407,
+      "DIRECT": 0.42413,
+      "JUDGEMENTAL": 0.158464
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310449",
+    "value": {
+      "NO": 0.289025,
+      "DIRECT": 0.367329,
+      "JUDGEMENTAL": 0.343646
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310450",
+    "value": {
+      "NO": 0.185773,
+      "DIRECT": 0.353722,
+      "JUDGEMENTAL": 0.460504
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310451",
+    "value": {
+      "NO": 0.158248,
+      "DIRECT": 0.563778,
+      "JUDGEMENTAL": 0.277975
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310452",
+    "value": {
+      "NO": 0.293224,
+      "DIRECT": 0.325346,
+      "JUDGEMENTAL": 0.38143
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310453",
+    "value": {
+      "NO": 0.405943,
+      "DIRECT": 0.353194,
+      "JUDGEMENTAL": 0.240863
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310454",
+    "value": {
+      "NO": 0.588398,
+      "DIRECT": 0.311526,
+      "JUDGEMENTAL": 0.100076
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310455",
+    "value": {
+      "NO": 0.28033,
+      "DIRECT": 0.525503,
+      "JUDGEMENTAL": 0.194167
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310456",
+    "value": {
+      "NO": 0.429829,
+      "DIRECT": 0.333173,
+      "JUDGEMENTAL": 0.236998
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310457",
+    "value": {
+      "NO": 0.49892,
+      "DIRECT": 0.232248,
+      "JUDGEMENTAL": 0.268831
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310458",
+    "value": {
+      "NO": 0.196778,
+      "DIRECT": 0.396327,
+      "JUDGEMENTAL": 0.406895
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310459",
+    "value": {
+      "NO": 0.052863,
+      "DIRECT": 0.508804,
+      "JUDGEMENTAL": 0.438334
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310460",
+    "value": {
+      "NO": 0.314351,
+      "DIRECT": 0.236243,
+      "JUDGEMENTAL": 0.449406
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310461",
+    "value": {
+      "NO": 0.165238,
+      "DIRECT": 0.321453,
+      "JUDGEMENTAL": 0.513309
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310462",
+    "value": {
+      "NO": 0.314431,
+      "DIRECT": 0.262179,
+      "JUDGEMENTAL": 0.423389
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310463",
+    "value": {
+      "NO": 0.277256,
+      "DIRECT": 0.429827,
+      "JUDGEMENTAL": 0.292917
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310464",
+    "value": {
+      "NO": 0.146131,
+      "DIRECT": 0.391694,
+      "JUDGEMENTAL": 0.462174
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310465",
+    "value": {
+      "NO": 0.233957,
+      "DIRECT": 0.297308,
+      "JUDGEMENTAL": 0.468735
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310466",
+    "value": {
+      "NO": 0.096792,
+      "DIRECT": 0.494712,
+      "JUDGEMENTAL": 0.408497
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310467",
+    "value": {
+      "NO": 0.321444,
+      "DIRECT": 0.409038,
+      "JUDGEMENTAL": 0.269518
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310468",
+    "value": {
+      "NO": 0.248438,
+      "DIRECT": 0.467535,
+      "JUDGEMENTAL": 0.284027
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310469",
+    "value": {
+      "NO": 0.308835,
+      "DIRECT": 0.382848,
+      "JUDGEMENTAL": 0.308317
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310470",
+    "value": {
+      "NO": 0.502751,
+      "DIRECT": 0.287362,
+      "JUDGEMENTAL": 0.209887
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310471",
+    "value": {
+      "NO": 0.484078,
+      "DIRECT": 0.376932,
+      "JUDGEMENTAL": 0.13899
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310472",
+    "value": {
+      "NO": 0.356477,
+      "DIRECT": 0.428386,
+      "JUDGEMENTAL": 0.215137
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310473",
+    "value": {
+      "NO": 0.298307,
+      "DIRECT": 0.428251,
+      "JUDGEMENTAL": 0.273441
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310474",
+    "value": {
+      "NO": 0.333453,
+      "DIRECT": 0.442478,
+      "JUDGEMENTAL": 0.224069
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310475",
+    "value": {
+      "NO": 0.438472,
+      "DIRECT": 0.344875,
+      "JUDGEMENTAL": 0.216653
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310476",
+    "value": {
+      "NO": 0.246379,
+      "DIRECT": 0.513334,
+      "JUDGEMENTAL": 0.240287
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310477",
+    "value": {
+      "NO": 0.488077,
+      "DIRECT": 0.345441,
+      "JUDGEMENTAL": 0.166482
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310478",
+    "value": {
+      "NO": 0.211852,
+      "DIRECT": 0.548382,
+      "JUDGEMENTAL": 0.239766
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310479",
+    "value": {
+      "NO": 0.346422,
+      "DIRECT": 0.429158,
+      "JUDGEMENTAL": 0.22442
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310480",
+    "value": {
+      "NO": 0.154403,
+      "DIRECT": 0.351325,
+      "JUDGEMENTAL": 0.494272
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310481",
+    "value": {
+      "NO": 0.327908,
+      "DIRECT": 0.169954,
+      "JUDGEMENTAL": 0.502138
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310482",
+    "value": {
+      "NO": 0.415795,
+      "DIRECT": 0.279112,
+      "JUDGEMENTAL": 0.305093
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310483",
+    "value": {
+      "NO": 0.217774,
+      "DIRECT": 0.241224,
+      "JUDGEMENTAL": 0.541003
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310484",
+    "value": {
+      "NO": 0.541023,
+      "DIRECT": 0.29969,
+      "JUDGEMENTAL": 0.159287
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310485",
+    "value": {
+      "NO": 0.318788,
+      "DIRECT": 0.414956,
+      "JUDGEMENTAL": 0.266256
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310486",
+    "value": {
+      "NO": 0.46094,
+      "DIRECT": 0.378284,
+      "JUDGEMENTAL": 0.160776
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310487",
+    "value": {
+      "NO": 0.287849,
+      "DIRECT": 0.491314,
+      "JUDGEMENTAL": 0.220837
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310488",
+    "value": {
+      "NO": 0.526877,
+      "DIRECT": 0.333619,
+      "JUDGEMENTAL": 0.139504
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310489",
+    "value": {
+      "NO": 0.307511,
+      "DIRECT": 0.460488,
+      "JUDGEMENTAL": 0.232001
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310490",
+    "value": {
+      "NO": 0.471464,
+      "DIRECT": 0.299979,
+      "JUDGEMENTAL": 0.228557
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310491",
+    "value": {
+      "NO": 0.425795,
+      "DIRECT": 0.417338,
+      "JUDGEMENTAL": 0.156867
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310492",
+    "value": {
+      "NO": 0.478145,
+      "DIRECT": 0.435732,
+      "JUDGEMENTAL": 0.086122
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310493",
+    "value": {
+      "NO": 0.230783,
+      "DIRECT": 0.454817,
+      "JUDGEMENTAL": 0.314399
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310494",
+    "value": {
+      "NO": 0.482051,
+      "DIRECT": 0.366851,
+      "JUDGEMENTAL": 0.151097
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310495",
+    "value": {
+      "NO": 0.225585,
+      "DIRECT": 0.577629,
+      "JUDGEMENTAL": 0.196786
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310496",
+    "value": {
+      "NO": 0.392013,
+      "DIRECT": 0.405288,
+      "JUDGEMENTAL": 0.202699
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310497",
+    "value": {
+      "NO": 0.635108,
+      "DIRECT": 0.290197,
+      "JUDGEMENTAL": 0.074695
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310498",
+    "value": {
+      "NO": 0.436986,
+      "DIRECT": 0.361939,
+      "JUDGEMENTAL": 0.201075
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310499",
+    "value": {
+      "NO": 0.500324,
+      "DIRECT": 0.262145,
+      "JUDGEMENTAL": 0.237532
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310500",
+    "value": {
+      "NO": 0.127882,
+      "DIRECT": 0.525687,
+      "JUDGEMENTAL": 0.346431
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310501",
+    "value": {
+      "NO": 0.554031,
+      "DIRECT": 0.259511,
+      "JUDGEMENTAL": 0.186458
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310502",
+    "value": {
+      "NO": 0.571937,
+      "DIRECT": 0.196739,
+      "JUDGEMENTAL": 0.231323
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310503",
+    "value": {
+      "NO": 0.301192,
+      "DIRECT": 0.501196,
+      "JUDGEMENTAL": 0.197612
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310504",
+    "value": {
+      "NO": 0.117808,
+      "DIRECT": 0.5467,
+      "JUDGEMENTAL": 0.335492
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310505",
+    "value": {
+      "NO": 0.114196,
+      "DIRECT": 0.306977,
+      "JUDGEMENTAL": 0.578827
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310506",
+    "value": {
+      "NO": 0.387002,
+      "DIRECT": 0.289566,
+      "JUDGEMENTAL": 0.323432
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310507",
+    "value": {
+      "NO": 0.34035,
+      "DIRECT": 0.400653,
+      "JUDGEMENTAL": 0.258996
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310508",
+    "value": {
+      "NO": 0.198331,
+      "DIRECT": 0.415687,
+      "JUDGEMENTAL": 0.385982
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310509",
+    "value": {
+      "NO": 0.491433,
+      "DIRECT": 0.281196,
+      "JUDGEMENTAL": 0.227371
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310510",
+    "value": {
+      "NO": 0.351091,
+      "DIRECT": 0.48748,
+      "JUDGEMENTAL": 0.161429
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310511",
+    "value": {
+      "NO": 0.614501,
+      "DIRECT": 0.305876,
+      "JUDGEMENTAL": 0.079622
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310512",
+    "value": {
+      "NO": 0.535227,
+      "DIRECT": 0.312318,
+      "JUDGEMENTAL": 0.152455
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310513",
+    "value": {
+      "NO": 0.489978,
+      "DIRECT": 0.327083,
+      "JUDGEMENTAL": 0.182939
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310514",
+    "value": {
+      "NO": 0.426183,
+      "DIRECT": 0.405157,
+      "JUDGEMENTAL": 0.168661
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310515",
+    "value": {
+      "NO": 0.184289,
+      "DIRECT": 0.316609,
+      "JUDGEMENTAL": 0.499102
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310516",
+    "value": {
+      "NO": 0.440682,
+      "DIRECT": 0.266209,
+      "JUDGEMENTAL": 0.293109
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310517",
+    "value": {
+      "NO": 0.323984,
+      "DIRECT": 0.459094,
+      "JUDGEMENTAL": 0.216922
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310518",
+    "value": {
+      "NO": 0.593447,
+      "DIRECT": 0.336932,
+      "JUDGEMENTAL": 0.06962
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310519",
+    "value": {
+      "NO": 0.559322,
+      "DIRECT": 0.2818,
+      "JUDGEMENTAL": 0.158878
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310520",
+    "value": {
+      "NO": 0.250799,
+      "DIRECT": 0.43931,
+      "JUDGEMENTAL": 0.309892
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310521",
+    "value": {
+      "NO": 0.275468,
+      "DIRECT": 0.45845,
+      "JUDGEMENTAL": 0.266082
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310522",
+    "value": {
+      "NO": 0.267615,
+      "DIRECT": 0.507604,
+      "JUDGEMENTAL": 0.224781
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310523",
+    "value": {
+      "NO": 0.393227,
+      "DIRECT": 0.359693,
+      "JUDGEMENTAL": 0.247081
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310524",
+    "value": {
+      "NO": 0.297977,
+      "DIRECT": 0.509788,
+      "JUDGEMENTAL": 0.192235
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310525",
+    "value": {
+      "NO": 0.101951,
+      "DIRECT": 0.486729,
+      "JUDGEMENTAL": 0.41132
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310526",
+    "value": {
+      "NO": 0.215863,
+      "DIRECT": 0.616697,
+      "JUDGEMENTAL": 0.16744
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310527",
+    "value": {
+      "NO": 0.323661,
+      "DIRECT": 0.516242,
+      "JUDGEMENTAL": 0.160097
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310528",
+    "value": {
+      "NO": 0.262675,
+      "DIRECT": 0.362135,
+      "JUDGEMENTAL": 0.37519
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310529",
+    "value": {
+      "NO": 0.225031,
+      "DIRECT": 0.430979,
+      "JUDGEMENTAL": 0.34399
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310530",
+    "value": {
+      "NO": 0.333955,
+      "DIRECT": 0.204747,
+      "JUDGEMENTAL": 0.461298
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310531",
+    "value": {
+      "NO": 0.262516,
+      "DIRECT": 0.268767,
+      "JUDGEMENTAL": 0.468717
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310532",
+    "value": {
+      "NO": 0.080292,
+      "DIRECT": 0.203579,
+      "JUDGEMENTAL": 0.716129
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310533",
+    "value": {
+      "NO": 0.523442,
+      "DIRECT": 0.16533,
+      "JUDGEMENTAL": 0.311228
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310534",
+    "value": {
+      "NO": 0.210595,
+      "DIRECT": 0.470798,
+      "JUDGEMENTAL": 0.318607
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310535",
+    "value": {
+      "NO": 0.307199,
+      "DIRECT": 0.311812,
+      "JUDGEMENTAL": 0.380989
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310536",
+    "value": {
+      "NO": 0.232123,
+      "DIRECT": 0.354236,
+      "JUDGEMENTAL": 0.413641
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310537",
+    "value": {
+      "NO": 0.399963,
+      "DIRECT": 0.39474,
+      "JUDGEMENTAL": 0.205297
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310538",
+    "value": {
+      "NO": 0.436777,
+      "DIRECT": 0.354666,
+      "JUDGEMENTAL": 0.208557
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310539",
+    "value": {
+      "NO": 0.344879,
+      "DIRECT": 0.466495,
+      "JUDGEMENTAL": 0.188626
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "310540",
+    "value": {
+      "NO": 0.382928,
+      "DIRECT": 0.332136,
+      "JUDGEMENTAL": 0.284936
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410001",
+    "value": {
+      "NO": 0.396329,
+      "DIRECT": 0.35591,
+      "JUDGEMENTAL": 0.247761
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410002",
+    "value": {
+      "NO": 0.351582,
+      "DIRECT": 0.197112,
+      "JUDGEMENTAL": 0.451306
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410003",
+    "value": {
+      "NO": 0.331554,
+      "DIRECT": 0.338477,
+      "JUDGEMENTAL": 0.329969
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410004",
+    "value": {
+      "NO": 0.155069,
+      "DIRECT": 0.295776,
+      "JUDGEMENTAL": 0.549155
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410005",
+    "value": {
+      "NO": 0.235398,
+      "DIRECT": 0.375093,
+      "JUDGEMENTAL": 0.389508
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410006",
+    "value": {
+      "NO": 0.585047,
+      "DIRECT": 0.193761,
+      "JUDGEMENTAL": 0.221192
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410007",
+    "value": {
+      "NO": 0.124775,
+      "DIRECT": 0.431664,
+      "JUDGEMENTAL": 0.443562
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410008",
+    "value": {
+      "NO": 0.106485,
+      "DIRECT": 0.298264,
+      "JUDGEMENTAL": 0.595251
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410009",
+    "value": {
+      "NO": 0.626903,
+      "DIRECT": 0.182257,
+      "JUDGEMENTAL": 0.19084
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410010",
+    "value": {
+      "NO": 0.430006,
+      "DIRECT": 0.308327,
+      "JUDGEMENTAL": 0.261667
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410011",
+    "value": {
+      "NO": 0.477383,
+      "DIRECT": 0.288826,
+      "JUDGEMENTAL": 0.233791
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410012",
+    "value": {
+      "NO": 0.712716,
+      "DIRECT": 0.201695,
+      "JUDGEMENTAL": 0.085589
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410013",
+    "value": {
+      "NO": 0.223124,
+      "DIRECT": 0.245165,
+      "JUDGEMENTAL": 0.531711
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410014",
+    "value": {
+      "NO": 0.358657,
+      "DIRECT": 0.395027,
+      "JUDGEMENTAL": 0.246316
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410015",
+    "value": {
+      "NO": 0.421957,
+      "DIRECT": 0.27716,
+      "JUDGEMENTAL": 0.300883
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410016",
+    "value": {
+      "NO": 0.551338,
+      "DIRECT": 0.211953,
+      "JUDGEMENTAL": 0.236709
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410017",
+    "value": {
+      "NO": 0.208973,
+      "DIRECT": 0.243615,
+      "JUDGEMENTAL": 0.547412
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410018",
+    "value": {
+      "NO": 0.350049,
+      "DIRECT": 0.403291,
+      "JUDGEMENTAL": 0.24666
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410019",
+    "value": {
+      "NO": 0.59545,
+      "DIRECT": 0.176184,
+      "JUDGEMENTAL": 0.228366
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410020",
+    "value": {
+      "NO": 0.134313,
+      "DIRECT": 0.343908,
+      "JUDGEMENTAL": 0.521778
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410021",
+    "value": {
+      "NO": 0.52419,
+      "DIRECT": 0.249603,
+      "JUDGEMENTAL": 0.226207
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410022",
+    "value": {
+      "NO": 0.205147,
+      "DIRECT": 0.221578,
+      "JUDGEMENTAL": 0.573275
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410023",
+    "value": {
+      "NO": 0.353157,
+      "DIRECT": 0.305124,
+      "JUDGEMENTAL": 0.341719
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410024",
+    "value": {
+      "NO": 0.496905,
+      "DIRECT": 0.255093,
+      "JUDGEMENTAL": 0.248002
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410025",
+    "value": {
+      "NO": 0.308716,
+      "DIRECT": 0.485085,
+      "JUDGEMENTAL": 0.206198
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410026",
+    "value": {
+      "NO": 0.612399,
+      "DIRECT": 0.175261,
+      "JUDGEMENTAL": 0.21234
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410027",
+    "value": {
+      "NO": 0.72191,
+      "DIRECT": 0.18714,
+      "JUDGEMENTAL": 0.09095
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410028",
+    "value": {
+      "NO": 0.606233,
+      "DIRECT": 0.172882,
+      "JUDGEMENTAL": 0.220884
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410029",
+    "value": {
+      "NO": 0.645017,
+      "DIRECT": 0.237407,
+      "JUDGEMENTAL": 0.117576
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410030",
+    "value": {
+      "NO": 0.715651,
+      "DIRECT": 0.174814,
+      "JUDGEMENTAL": 0.109535
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410031",
+    "value": {
+      "NO": 0.569278,
+      "DIRECT": 0.286091,
+      "JUDGEMENTAL": 0.144631
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410032",
+    "value": {
+      "NO": 0.363199,
+      "DIRECT": 0.494115,
+      "JUDGEMENTAL": 0.142686
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410033",
+    "value": {
+      "NO": 0.60796,
+      "DIRECT": 0.264195,
+      "JUDGEMENTAL": 0.127845
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410034",
+    "value": {
+      "NO": 0.620988,
+      "DIRECT": 0.209559,
+      "JUDGEMENTAL": 0.169452
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410035",
+    "value": {
+      "NO": 0.458172,
+      "DIRECT": 0.21881,
+      "JUDGEMENTAL": 0.323018
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410036",
+    "value": {
+      "NO": 0.703772,
+      "DIRECT": 0.163631,
+      "JUDGEMENTAL": 0.132597
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410037",
+    "value": {
+      "NO": 0.182605,
+      "DIRECT": 0.36064,
+      "JUDGEMENTAL": 0.456755
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410038",
+    "value": {
+      "NO": 0.424623,
+      "DIRECT": 0.370945,
+      "JUDGEMENTAL": 0.204433
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410039",
+    "value": {
+      "NO": 0.306022,
+      "DIRECT": 0.282058,
+      "JUDGEMENTAL": 0.41192
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410040",
+    "value": {
+      "NO": 0.369441,
+      "DIRECT": 0.333544,
+      "JUDGEMENTAL": 0.297015
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410041",
+    "value": {
+      "NO": 0.145365,
+      "DIRECT": 0.259922,
+      "JUDGEMENTAL": 0.594714
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410042",
+    "value": {
+      "NO": 0.407987,
+      "DIRECT": 0.351179,
+      "JUDGEMENTAL": 0.240834
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410043",
+    "value": {
+      "NO": 0.080982,
+      "DIRECT": 0.234986,
+      "JUDGEMENTAL": 0.684032
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410044",
+    "value": {
+      "NO": 0.144716,
+      "DIRECT": 0.23535,
+      "JUDGEMENTAL": 0.619934
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410045",
+    "value": {
+      "NO": 0.227538,
+      "DIRECT": 0.401797,
+      "JUDGEMENTAL": 0.370665
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410046",
+    "value": {
+      "NO": 0.297826,
+      "DIRECT": 0.338415,
+      "JUDGEMENTAL": 0.363758
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410047",
+    "value": {
+      "NO": 0.222352,
+      "DIRECT": 0.523596,
+      "JUDGEMENTAL": 0.254051
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410048",
+    "value": {
+      "NO": 0.295318,
+      "DIRECT": 0.282466,
+      "JUDGEMENTAL": 0.422216
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410049",
+    "value": {
+      "NO": 0.097371,
+      "DIRECT": 0.416368,
+      "JUDGEMENTAL": 0.486261
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410050",
+    "value": {
+      "NO": 0.31391,
+      "DIRECT": 0.410478,
+      "JUDGEMENTAL": 0.275612
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410051",
+    "value": {
+      "NO": 0.325815,
+      "DIRECT": 0.128231,
+      "JUDGEMENTAL": 0.545955
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410052",
+    "value": {
+      "NO": 0.14942,
+      "DIRECT": 0.26895,
+      "JUDGEMENTAL": 0.58163
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410053",
+    "value": {
+      "NO": 0.467961,
+      "DIRECT": 0.199969,
+      "JUDGEMENTAL": 0.33207
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410054",
+    "value": {
+      "NO": 0.154479,
+      "DIRECT": 0.359594,
+      "JUDGEMENTAL": 0.485927
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410055",
+    "value": {
+      "NO": 0.41012,
+      "DIRECT": 0.386059,
+      "JUDGEMENTAL": 0.203822
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410056",
+    "value": {
+      "NO": 0.26379,
+      "DIRECT": 0.341457,
+      "JUDGEMENTAL": 0.394753
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410057",
+    "value": {
+      "NO": 0.158464,
+      "DIRECT": 0.333432,
+      "JUDGEMENTAL": 0.508104
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410058",
+    "value": {
+      "NO": 0.614179,
+      "DIRECT": 0.16045,
+      "JUDGEMENTAL": 0.225371
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410059",
+    "value": {
+      "NO": 0.543948,
+      "DIRECT": 0.242198,
+      "JUDGEMENTAL": 0.213854
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410060",
+    "value": {
+      "NO": 0.273397,
+      "DIRECT": 0.330517,
+      "JUDGEMENTAL": 0.396087
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410061",
+    "value": {
+      "NO": 0.354096,
+      "DIRECT": 0.337872,
+      "JUDGEMENTAL": 0.308033
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410062",
+    "value": {
+      "NO": 0.313826,
+      "DIRECT": 0.471023,
+      "JUDGEMENTAL": 0.215151
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410063",
+    "value": {
+      "NO": 0.361856,
+      "DIRECT": 0.245873,
+      "JUDGEMENTAL": 0.392271
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410064",
+    "value": {
+      "NO": 0.203815,
+      "DIRECT": 0.399637,
+      "JUDGEMENTAL": 0.396548
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410065",
+    "value": {
+      "NO": 0.281318,
+      "DIRECT": 0.490066,
+      "JUDGEMENTAL": 0.228615
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410066",
+    "value": {
+      "NO": 0.516289,
+      "DIRECT": 0.188617,
+      "JUDGEMENTAL": 0.295094
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410067",
+    "value": {
+      "NO": 0.565476,
+      "DIRECT": 0.27719,
+      "JUDGEMENTAL": 0.157334
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410068",
+    "value": {
+      "NO": 0.590655,
+      "DIRECT": 0.213853,
+      "JUDGEMENTAL": 0.195492
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410069",
+    "value": {
+      "NO": 0.602572,
+      "DIRECT": 0.203866,
+      "JUDGEMENTAL": 0.193562
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410070",
+    "value": {
+      "NO": 0.353099,
+      "DIRECT": 0.177471,
+      "JUDGEMENTAL": 0.469431
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410071",
+    "value": {
+      "NO": 0.492906,
+      "DIRECT": 0.203429,
+      "JUDGEMENTAL": 0.303665
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410072",
+    "value": {
+      "NO": 0.396134,
+      "DIRECT": 0.255741,
+      "JUDGEMENTAL": 0.348126
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410073",
+    "value": {
+      "NO": 0.228093,
+      "DIRECT": 0.377686,
+      "JUDGEMENTAL": 0.394221
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410074",
+    "value": {
+      "NO": 0.514,
+      "DIRECT": 0.287088,
+      "JUDGEMENTAL": 0.198912
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410075",
+    "value": {
+      "NO": 0.58503,
+      "DIRECT": 0.249387,
+      "JUDGEMENTAL": 0.165584
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410076",
+    "value": {
+      "NO": 0.603684,
+      "DIRECT": 0.175385,
+      "JUDGEMENTAL": 0.220931
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410077",
+    "value": {
+      "NO": 0.394485,
+      "DIRECT": 0.335103,
+      "JUDGEMENTAL": 0.270412
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410078",
+    "value": {
+      "NO": 0.33681,
+      "DIRECT": 0.348106,
+      "JUDGEMENTAL": 0.315084
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410079",
+    "value": {
+      "NO": 0.491698,
+      "DIRECT": 0.22318,
+      "JUDGEMENTAL": 0.285122
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410080",
+    "value": {
+      "NO": 0.273822,
+      "DIRECT": 0.178716,
+      "JUDGEMENTAL": 0.547462
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410081",
+    "value": {
+      "NO": 0.2214,
+      "DIRECT": 0.148479,
+      "JUDGEMENTAL": 0.630121
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410082",
+    "value": {
+      "NO": 0.430737,
+      "DIRECT": 0.214997,
+      "JUDGEMENTAL": 0.354266
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410083",
+    "value": {
+      "NO": 0.086283,
+      "DIRECT": 0.152108,
+      "JUDGEMENTAL": 0.761609
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410084",
+    "value": {
+      "NO": 0.312457,
+      "DIRECT": 0.428308,
+      "JUDGEMENTAL": 0.259235
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410085",
+    "value": {
+      "NO": 0.310864,
+      "DIRECT": 0.317896,
+      "JUDGEMENTAL": 0.37124
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410086",
+    "value": {
+      "NO": 0.153556,
+      "DIRECT": 0.224431,
+      "JUDGEMENTAL": 0.622013
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410087",
+    "value": {
+      "NO": 0.523507,
+      "DIRECT": 0.202012,
+      "JUDGEMENTAL": 0.274481
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410088",
+    "value": {
+      "NO": 0.633454,
+      "DIRECT": 0.218351,
+      "JUDGEMENTAL": 0.148195
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410089",
+    "value": {
+      "NO": 0.59159,
+      "DIRECT": 0.19459,
+      "JUDGEMENTAL": 0.213819
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410090",
+    "value": {
+      "NO": 0.631617,
+      "DIRECT": 0.205463,
+      "JUDGEMENTAL": 0.16292
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410091",
+    "value": {
+      "NO": 0.362463,
+      "DIRECT": 0.373539,
+      "JUDGEMENTAL": 0.263998
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410092",
+    "value": {
+      "NO": 0.385046,
+      "DIRECT": 0.199975,
+      "JUDGEMENTAL": 0.414978
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410093",
+    "value": {
+      "NO": 0.432735,
+      "DIRECT": 0.194355,
+      "JUDGEMENTAL": 0.37291
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410094",
+    "value": {
+      "NO": 0.60444,
+      "DIRECT": 0.216928,
+      "JUDGEMENTAL": 0.178632
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410095",
+    "value": {
+      "NO": 0.505619,
+      "DIRECT": 0.195572,
+      "JUDGEMENTAL": 0.298809
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410096",
+    "value": {
+      "NO": 0.609845,
+      "DIRECT": 0.234338,
+      "JUDGEMENTAL": 0.155817
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410097",
+    "value": {
+      "NO": 0.663285,
+      "DIRECT": 0.220001,
+      "JUDGEMENTAL": 0.116714
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410098",
+    "value": {
+      "NO": 0.26922,
+      "DIRECT": 0.38648,
+      "JUDGEMENTAL": 0.3443
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410099",
+    "value": {
+      "NO": 0.158176,
+      "DIRECT": 0.308704,
+      "JUDGEMENTAL": 0.53312
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410100",
+    "value": {
+      "NO": 0.140938,
+      "DIRECT": 0.237431,
+      "JUDGEMENTAL": 0.621632
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410101",
+    "value": {
+      "NO": 0.633357,
+      "DIRECT": 0.226972,
+      "JUDGEMENTAL": 0.139671
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410102",
+    "value": {
+      "NO": 0.269918,
+      "DIRECT": 0.389025,
+      "JUDGEMENTAL": 0.341057
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410103",
+    "value": {
+      "NO": 0.182559,
+      "DIRECT": 0.433878,
+      "JUDGEMENTAL": 0.383564
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410104",
+    "value": {
+      "NO": 0.149654,
+      "DIRECT": 0.267246,
+      "JUDGEMENTAL": 0.5831
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410105",
+    "value": {
+      "NO": 0.047199,
+      "DIRECT": 0.213836,
+      "JUDGEMENTAL": 0.738965
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410106",
+    "value": {
+      "NO": 0.218758,
+      "DIRECT": 0.330248,
+      "JUDGEMENTAL": 0.450994
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410107",
+    "value": {
+      "NO": 0.296581,
+      "DIRECT": 0.307706,
+      "JUDGEMENTAL": 0.395713
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410108",
+    "value": {
+      "NO": 0.461949,
+      "DIRECT": 0.247804,
+      "JUDGEMENTAL": 0.290247
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410109",
+    "value": {
+      "NO": 0.410623,
+      "DIRECT": 0.183896,
+      "JUDGEMENTAL": 0.40548
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410110",
+    "value": {
+      "NO": 0.589653,
+      "DIRECT": 0.182186,
+      "JUDGEMENTAL": 0.228161
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410111",
+    "value": {
+      "NO": 0.149432,
+      "DIRECT": 0.298361,
+      "JUDGEMENTAL": 0.552206
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410112",
+    "value": {
+      "NO": 0.56122,
+      "DIRECT": 0.245387,
+      "JUDGEMENTAL": 0.193393
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410113",
+    "value": {
+      "NO": 0.620602,
+      "DIRECT": 0.219844,
+      "JUDGEMENTAL": 0.159553
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410114",
+    "value": {
+      "NO": 0.337714,
+      "DIRECT": 0.258907,
+      "JUDGEMENTAL": 0.403379
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410115",
+    "value": {
+      "NO": 0.393739,
+      "DIRECT": 0.304274,
+      "JUDGEMENTAL": 0.301987
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410116",
+    "value": {
+      "NO": 0.30469,
+      "DIRECT": 0.335493,
+      "JUDGEMENTAL": 0.359816
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410117",
+    "value": {
+      "NO": 0.744489,
+      "DIRECT": 0.114175,
+      "JUDGEMENTAL": 0.141337
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410118",
+    "value": {
+      "NO": 0.081452,
+      "DIRECT": 0.211314,
+      "JUDGEMENTAL": 0.707235
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410119",
+    "value": {
+      "NO": 0.190758,
+      "DIRECT": 0.626456,
+      "JUDGEMENTAL": 0.182786
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410120",
+    "value": {
+      "NO": 0.512619,
+      "DIRECT": 0.412915,
+      "JUDGEMENTAL": 0.074466
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410121",
+    "value": {
+      "NO": 0.167972,
+      "DIRECT": 0.39809,
+      "JUDGEMENTAL": 0.433938
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410122",
+    "value": {
+      "NO": 0.246624,
+      "DIRECT": 0.228161,
+      "JUDGEMENTAL": 0.525215
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410123",
+    "value": {
+      "NO": 0.275718,
+      "DIRECT": 0.277432,
+      "JUDGEMENTAL": 0.44685
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410124",
+    "value": {
+      "NO": 0.32146,
+      "DIRECT": 0.35315,
+      "JUDGEMENTAL": 0.32539
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410125",
+    "value": {
+      "NO": 0.499305,
+      "DIRECT": 0.345162,
+      "JUDGEMENTAL": 0.155533
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410126",
+    "value": {
+      "NO": 0.481277,
+      "DIRECT": 0.256789,
+      "JUDGEMENTAL": 0.261933
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410127",
+    "value": {
+      "NO": 0.167126,
+      "DIRECT": 0.429621,
+      "JUDGEMENTAL": 0.403253
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410128",
+    "value": {
+      "NO": 0.409112,
+      "DIRECT": 0.294792,
+      "JUDGEMENTAL": 0.296096
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410129",
+    "value": {
+      "NO": 0.183851,
+      "DIRECT": 0.263213,
+      "JUDGEMENTAL": 0.552936
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410130",
+    "value": {
+      "NO": 0.388895,
+      "DIRECT": 0.348776,
+      "JUDGEMENTAL": 0.262329
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410131",
+    "value": {
+      "NO": 0.147434,
+      "DIRECT": 0.487184,
+      "JUDGEMENTAL": 0.365382
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410132",
+    "value": {
+      "NO": 0.199433,
+      "DIRECT": 0.398855,
+      "JUDGEMENTAL": 0.401712
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410133",
+    "value": {
+      "NO": 0.278308,
+      "DIRECT": 0.287241,
+      "JUDGEMENTAL": 0.434452
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410134",
+    "value": {
+      "NO": 0.147115,
+      "DIRECT": 0.297045,
+      "JUDGEMENTAL": 0.55584
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410135",
+    "value": {
+      "NO": 0.132982,
+      "DIRECT": 0.477195,
+      "JUDGEMENTAL": 0.389823
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410136",
+    "value": {
+      "NO": 0.192166,
+      "DIRECT": 0.439522,
+      "JUDGEMENTAL": 0.368312
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410137",
+    "value": {
+      "NO": 0.191564,
+      "DIRECT": 0.545993,
+      "JUDGEMENTAL": 0.262443
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410138",
+    "value": {
+      "NO": 0.538265,
+      "DIRECT": 0.246229,
+      "JUDGEMENTAL": 0.215506
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410139",
+    "value": {
+      "NO": 0.119347,
+      "DIRECT": 0.386448,
+      "JUDGEMENTAL": 0.494205
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410140",
+    "value": {
+      "NO": 0.176081,
+      "DIRECT": 0.289186,
+      "JUDGEMENTAL": 0.534732
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410141",
+    "value": {
+      "NO": 0.247846,
+      "DIRECT": 0.379151,
+      "JUDGEMENTAL": 0.373003
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410142",
+    "value": {
+      "NO": 0.187356,
+      "DIRECT": 0.468777,
+      "JUDGEMENTAL": 0.343868
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410143",
+    "value": {
+      "NO": 0.481579,
+      "DIRECT": 0.306376,
+      "JUDGEMENTAL": 0.212046
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410144",
+    "value": {
+      "NO": 0.363583,
+      "DIRECT": 0.290351,
+      "JUDGEMENTAL": 0.346065
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410145",
+    "value": {
+      "NO": 0.202541,
+      "DIRECT": 0.383383,
+      "JUDGEMENTAL": 0.414076
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410146",
+    "value": {
+      "NO": 0.300219,
+      "DIRECT": 0.465104,
+      "JUDGEMENTAL": 0.234677
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410147",
+    "value": {
+      "NO": 0.39097,
+      "DIRECT": 0.209567,
+      "JUDGEMENTAL": 0.399463
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410148",
+    "value": {
+      "NO": 0.613248,
+      "DIRECT": 0.285151,
+      "JUDGEMENTAL": 0.101601
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410149",
+    "value": {
+      "NO": 0.326826,
+      "DIRECT": 0.26751,
+      "JUDGEMENTAL": 0.405664
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410150",
+    "value": {
+      "NO": 0.345495,
+      "DIRECT": 0.140538,
+      "JUDGEMENTAL": 0.513967
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410151",
+    "value": {
+      "NO": 0.160994,
+      "DIRECT": 0.63206,
+      "JUDGEMENTAL": 0.206947
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410152",
+    "value": {
+      "NO": 0.291704,
+      "DIRECT": 0.417376,
+      "JUDGEMENTAL": 0.29092
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410153",
+    "value": {
+      "NO": 0.366178,
+      "DIRECT": 0.33146,
+      "JUDGEMENTAL": 0.302362
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410154",
+    "value": {
+      "NO": 0.211794,
+      "DIRECT": 0.549401,
+      "JUDGEMENTAL": 0.238805
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410155",
+    "value": {
+      "NO": 0.55989,
+      "DIRECT": 0.256543,
+      "JUDGEMENTAL": 0.183567
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410156",
+    "value": {
+      "NO": 0.459151,
+      "DIRECT": 0.202645,
+      "JUDGEMENTAL": 0.338204
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410157",
+    "value": {
+      "NO": 0.221715,
+      "DIRECT": 0.290577,
+      "JUDGEMENTAL": 0.487708
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410158",
+    "value": {
+      "NO": 0.481436,
+      "DIRECT": 0.221453,
+      "JUDGEMENTAL": 0.297111
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410159",
+    "value": {
+      "NO": 0.357987,
+      "DIRECT": 0.243302,
+      "JUDGEMENTAL": 0.398712
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410160",
+    "value": {
+      "NO": 0.219592,
+      "DIRECT": 0.395731,
+      "JUDGEMENTAL": 0.384676
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410161",
+    "value": {
+      "NO": 0.482744,
+      "DIRECT": 0.267384,
+      "JUDGEMENTAL": 0.249873
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410162",
+    "value": {
+      "NO": 0.568829,
+      "DIRECT": 0.211982,
+      "JUDGEMENTAL": 0.21919
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410163",
+    "value": {
+      "NO": 0.769772,
+      "DIRECT": 0.103684,
+      "JUDGEMENTAL": 0.126544
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410164",
+    "value": {
+      "NO": 0.400821,
+      "DIRECT": 0.227795,
+      "JUDGEMENTAL": 0.371384
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410165",
+    "value": {
+      "NO": 0.289677,
+      "DIRECT": 0.26314,
+      "JUDGEMENTAL": 0.447183
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410166",
+    "value": {
+      "NO": 0.39623,
+      "DIRECT": 0.412425,
+      "JUDGEMENTAL": 0.191345
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410167",
+    "value": {
+      "NO": 0.366235,
+      "DIRECT": 0.365032,
+      "JUDGEMENTAL": 0.268733
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410168",
+    "value": {
+      "NO": 0.21819,
+      "DIRECT": 0.357784,
+      "JUDGEMENTAL": 0.424026
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410169",
+    "value": {
+      "NO": 0.51294,
+      "DIRECT": 0.202669,
+      "JUDGEMENTAL": 0.284391
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410170",
+    "value": {
+      "NO": 0.456004,
+      "DIRECT": 0.251174,
+      "JUDGEMENTAL": 0.292822
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410171",
+    "value": {
+      "NO": 0.389707,
+      "DIRECT": 0.218238,
+      "JUDGEMENTAL": 0.392055
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410172",
+    "value": {
+      "NO": 0.592145,
+      "DIRECT": 0.25988,
+      "JUDGEMENTAL": 0.147975
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410173",
+    "value": {
+      "NO": 0.442243,
+      "DIRECT": 0.166148,
+      "JUDGEMENTAL": 0.391609
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410174",
+    "value": {
+      "NO": 0.34139,
+      "DIRECT": 0.172434,
+      "JUDGEMENTAL": 0.486176
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410175",
+    "value": {
+      "NO": 0.447731,
+      "DIRECT": 0.241818,
+      "JUDGEMENTAL": 0.310451
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410176",
+    "value": {
+      "NO": 0.26834,
+      "DIRECT": 0.317446,
+      "JUDGEMENTAL": 0.414214
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410177",
+    "value": {
+      "NO": 0.572747,
+      "DIRECT": 0.191797,
+      "JUDGEMENTAL": 0.235456
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410178",
+    "value": {
+      "NO": 0.479736,
+      "DIRECT": 0.295749,
+      "JUDGEMENTAL": 0.224514
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410179",
+    "value": {
+      "NO": 0.289845,
+      "DIRECT": 0.387962,
+      "JUDGEMENTAL": 0.322193
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410180",
+    "value": {
+      "NO": 0.557934,
+      "DIRECT": 0.293696,
+      "JUDGEMENTAL": 0.14837
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410181",
+    "value": {
+      "NO": 0.35347,
+      "DIRECT": 0.380648,
+      "JUDGEMENTAL": 0.265882
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410182",
+    "value": {
+      "NO": 0.528516,
+      "DIRECT": 0.325048,
+      "JUDGEMENTAL": 0.146436
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410183",
+    "value": {
+      "NO": 0.462459,
+      "DIRECT": 0.262964,
+      "JUDGEMENTAL": 0.274577
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410184",
+    "value": {
+      "NO": 0.368567,
+      "DIRECT": 0.308316,
+      "JUDGEMENTAL": 0.323117
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410185",
+    "value": {
+      "NO": 0.362672,
+      "DIRECT": 0.197638,
+      "JUDGEMENTAL": 0.43969
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410186",
+    "value": {
+      "NO": 0.315884,
+      "DIRECT": 0.406981,
+      "JUDGEMENTAL": 0.277135
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410187",
+    "value": {
+      "NO": 0.475103,
+      "DIRECT": 0.317755,
+      "JUDGEMENTAL": 0.207142
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410188",
+    "value": {
+      "NO": 0.626846,
+      "DIRECT": 0.226019,
+      "JUDGEMENTAL": 0.147135
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410189",
+    "value": {
+      "NO": 0.452006,
+      "DIRECT": 0.210575,
+      "JUDGEMENTAL": 0.33742
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410190",
+    "value": {
+      "NO": 0.512985,
+      "DIRECT": 0.298902,
+      "JUDGEMENTAL": 0.188113
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410191",
+    "value": {
+      "NO": 0.404417,
+      "DIRECT": 0.224662,
+      "JUDGEMENTAL": 0.370921
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410192",
+    "value": {
+      "NO": 0.08731,
+      "DIRECT": 0.417843,
+      "JUDGEMENTAL": 0.494847
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410193",
+    "value": {
+      "NO": 0.307214,
+      "DIRECT": 0.437765,
+      "JUDGEMENTAL": 0.25502
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410194",
+    "value": {
+      "NO": 0.082837,
+      "DIRECT": 0.440409,
+      "JUDGEMENTAL": 0.476754
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410195",
+    "value": {
+      "NO": 0.266123,
+      "DIRECT": 0.417181,
+      "JUDGEMENTAL": 0.316696
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410196",
+    "value": {
+      "NO": 0.10983,
+      "DIRECT": 0.318276,
+      "JUDGEMENTAL": 0.571895
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410197",
+    "value": {
+      "NO": 0.103883,
+      "DIRECT": 0.243874,
+      "JUDGEMENTAL": 0.652243
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410198",
+    "value": {
+      "NO": 0.503625,
+      "DIRECT": 0.229618,
+      "JUDGEMENTAL": 0.266757
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410199",
+    "value": {
+      "NO": 0.609216,
+      "DIRECT": 0.277937,
+      "JUDGEMENTAL": 0.112847
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410200",
+    "value": {
+      "NO": 0.620707,
+      "DIRECT": 0.23055,
+      "JUDGEMENTAL": 0.148743
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410201",
+    "value": {
+      "NO": 0.57179,
+      "DIRECT": 0.291339,
+      "JUDGEMENTAL": 0.136871
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410202",
+    "value": {
+      "NO": 0.492878,
+      "DIRECT": 0.261284,
+      "JUDGEMENTAL": 0.245838
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410203",
+    "value": {
+      "NO": 0.540317,
+      "DIRECT": 0.145526,
+      "JUDGEMENTAL": 0.314157
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410204",
+    "value": {
+      "NO": 0.513493,
+      "DIRECT": 0.265442,
+      "JUDGEMENTAL": 0.221065
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410205",
+    "value": {
+      "NO": 0.505412,
+      "DIRECT": 0.25867,
+      "JUDGEMENTAL": 0.235918
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410206",
+    "value": {
+      "NO": 0.218362,
+      "DIRECT": 0.224342,
+      "JUDGEMENTAL": 0.557296
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410207",
+    "value": {
+      "NO": 0.409768,
+      "DIRECT": 0.248741,
+      "JUDGEMENTAL": 0.341491
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410208",
+    "value": {
+      "NO": 0.292638,
+      "DIRECT": 0.227448,
+      "JUDGEMENTAL": 0.479914
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410209",
+    "value": {
+      "NO": 0.266894,
+      "DIRECT": 0.415202,
+      "JUDGEMENTAL": 0.317905
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410210",
+    "value": {
+      "NO": 0.25541,
+      "DIRECT": 0.249588,
+      "JUDGEMENTAL": 0.495002
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410211",
+    "value": {
+      "NO": 0.600333,
+      "DIRECT": 0.255667,
+      "JUDGEMENTAL": 0.143999
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410212",
+    "value": {
+      "NO": 0.311235,
+      "DIRECT": 0.318518,
+      "JUDGEMENTAL": 0.370248
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410213",
+    "value": {
+      "NO": 0.218595,
+      "DIRECT": 0.37409,
+      "JUDGEMENTAL": 0.407315
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410214",
+    "value": {
+      "NO": 0.686157,
+      "DIRECT": 0.205483,
+      "JUDGEMENTAL": 0.10836
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410215",
+    "value": {
+      "NO": 0.551752,
+      "DIRECT": 0.3445,
+      "JUDGEMENTAL": 0.103748
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410216",
+    "value": {
+      "NO": 0.673474,
+      "DIRECT": 0.123785,
+      "JUDGEMENTAL": 0.202741
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410217",
+    "value": {
+      "NO": 0.715882,
+      "DIRECT": 0.149279,
+      "JUDGEMENTAL": 0.134839
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410218",
+    "value": {
+      "NO": 0.464587,
+      "DIRECT": 0.315501,
+      "JUDGEMENTAL": 0.219912
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410219",
+    "value": {
+      "NO": 0.628559,
+      "DIRECT": 0.242412,
+      "JUDGEMENTAL": 0.12903
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410220",
+    "value": {
+      "NO": 0.519156,
+      "DIRECT": 0.217104,
+      "JUDGEMENTAL": 0.26374
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410221",
+    "value": {
+      "NO": 0.433366,
+      "DIRECT": 0.324656,
+      "JUDGEMENTAL": 0.241979
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410222",
+    "value": {
+      "NO": 0.127168,
+      "DIRECT": 0.479611,
+      "JUDGEMENTAL": 0.393221
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410223",
+    "value": {
+      "NO": 0.260104,
+      "DIRECT": 0.491594,
+      "JUDGEMENTAL": 0.248302
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410224",
+    "value": {
+      "NO": 0.182707,
+      "DIRECT": 0.286992,
+      "JUDGEMENTAL": 0.530302
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410225",
+    "value": {
+      "NO": 0.099314,
+      "DIRECT": 0.307561,
+      "JUDGEMENTAL": 0.593125
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410226",
+    "value": {
+      "NO": 0.332982,
+      "DIRECT": 0.239657,
+      "JUDGEMENTAL": 0.42736
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410227",
+    "value": {
+      "NO": 0.164906,
+      "DIRECT": 0.230298,
+      "JUDGEMENTAL": 0.604796
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410228",
+    "value": {
+      "NO": 0.51788,
+      "DIRECT": 0.298539,
+      "JUDGEMENTAL": 0.183581
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410229",
+    "value": {
+      "NO": 0.186134,
+      "DIRECT": 0.425723,
+      "JUDGEMENTAL": 0.388143
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410230",
+    "value": {
+      "NO": 0.146269,
+      "DIRECT": 0.449665,
+      "JUDGEMENTAL": 0.404066
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410231",
+    "value": {
+      "NO": 0.675001,
+      "DIRECT": 0.183355,
+      "JUDGEMENTAL": 0.141644
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410232",
+    "value": {
+      "NO": 0.136899,
+      "DIRECT": 0.281867,
+      "JUDGEMENTAL": 0.581234
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410233",
+    "value": {
+      "NO": 0.093899,
+      "DIRECT": 0.337192,
+      "JUDGEMENTAL": 0.56891
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410234",
+    "value": {
+      "NO": 0.218902,
+      "DIRECT": 0.310717,
+      "JUDGEMENTAL": 0.470381
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410235",
+    "value": {
+      "NO": 0.118371,
+      "DIRECT": 0.389353,
+      "JUDGEMENTAL": 0.492276
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410236",
+    "value": {
+      "NO": 0.226476,
+      "DIRECT": 0.580029,
+      "JUDGEMENTAL": 0.193496
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410237",
+    "value": {
+      "NO": 0.175764,
+      "DIRECT": 0.180033,
+      "JUDGEMENTAL": 0.644203
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410238",
+    "value": {
+      "NO": 0.589419,
+      "DIRECT": 0.196637,
+      "JUDGEMENTAL": 0.213944
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410239",
+    "value": {
+      "NO": 0.093907,
+      "DIRECT": 0.26934,
+      "JUDGEMENTAL": 0.636753
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410240",
+    "value": {
+      "NO": 0.287711,
+      "DIRECT": 0.201163,
+      "JUDGEMENTAL": 0.511126
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410241",
+    "value": {
+      "NO": 0.515232,
+      "DIRECT": 0.270717,
+      "JUDGEMENTAL": 0.214051
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410242",
+    "value": {
+      "NO": 0.173221,
+      "DIRECT": 0.496455,
+      "JUDGEMENTAL": 0.330324
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410243",
+    "value": {
+      "NO": 0.198343,
+      "DIRECT": 0.195541,
+      "JUDGEMENTAL": 0.606116
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410244",
+    "value": {
+      "NO": 0.551202,
+      "DIRECT": 0.145544,
+      "JUDGEMENTAL": 0.303254
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410245",
+    "value": {
+      "NO": 0.206701,
+      "DIRECT": 0.328205,
+      "JUDGEMENTAL": 0.465094
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410246",
+    "value": {
+      "NO": 0.525772,
+      "DIRECT": 0.346877,
+      "JUDGEMENTAL": 0.12735
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410247",
+    "value": {
+      "NO": 0.670716,
+      "DIRECT": 0.134421,
+      "JUDGEMENTAL": 0.194863
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410248",
+    "value": {
+      "NO": 0.337115,
+      "DIRECT": 0.312032,
+      "JUDGEMENTAL": 0.350853
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410249",
+    "value": {
+      "NO": 0.273677,
+      "DIRECT": 0.482255,
+      "JUDGEMENTAL": 0.244069
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410250",
+    "value": {
+      "NO": 0.279858,
+      "DIRECT": 0.239283,
+      "JUDGEMENTAL": 0.480859
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410251",
+    "value": {
+      "NO": 0.305243,
+      "DIRECT": 0.330643,
+      "JUDGEMENTAL": 0.364114
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410252",
+    "value": {
+      "NO": 0.474653,
+      "DIRECT": 0.199073,
+      "JUDGEMENTAL": 0.326274
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410253",
+    "value": {
+      "NO": 0.271438,
+      "DIRECT": 0.273665,
+      "JUDGEMENTAL": 0.454897
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410254",
+    "value": {
+      "NO": 0.593334,
+      "DIRECT": 0.185067,
+      "JUDGEMENTAL": 0.221599
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410255",
+    "value": {
+      "NO": 0.412458,
+      "DIRECT": 0.274957,
+      "JUDGEMENTAL": 0.312585
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410256",
+    "value": {
+      "NO": 0.206306,
+      "DIRECT": 0.264932,
+      "JUDGEMENTAL": 0.528762
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410257",
+    "value": {
+      "NO": 0.13502,
+      "DIRECT": 0.158033,
+      "JUDGEMENTAL": 0.706948
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410258",
+    "value": {
+      "NO": 0.310445,
+      "DIRECT": 0.353018,
+      "JUDGEMENTAL": 0.336537
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410259",
+    "value": {
+      "NO": 0.681366,
+      "DIRECT": 0.114651,
+      "JUDGEMENTAL": 0.203983
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410260",
+    "value": {
+      "NO": 0.574031,
+      "DIRECT": 0.23805,
+      "JUDGEMENTAL": 0.187919
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410261",
+    "value": {
+      "NO": 0.071657,
+      "DIRECT": 0.267768,
+      "JUDGEMENTAL": 0.660575
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410262",
+    "value": {
+      "NO": 0.123218,
+      "DIRECT": 0.2253,
+      "JUDGEMENTAL": 0.651482
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410263",
+    "value": {
+      "NO": 0.144455,
+      "DIRECT": 0.275212,
+      "JUDGEMENTAL": 0.580334
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410264",
+    "value": {
+      "NO": 0.414437,
+      "DIRECT": 0.235602,
+      "JUDGEMENTAL": 0.349961
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410265",
+    "value": {
+      "NO": 0.427565,
+      "DIRECT": 0.383956,
+      "JUDGEMENTAL": 0.188479
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410266",
+    "value": {
+      "NO": 0.415277,
+      "DIRECT": 0.238968,
+      "JUDGEMENTAL": 0.345755
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410267",
+    "value": {
+      "NO": 0.395275,
+      "DIRECT": 0.253799,
+      "JUDGEMENTAL": 0.350926
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410268",
+    "value": {
+      "NO": 0.284337,
+      "DIRECT": 0.257721,
+      "JUDGEMENTAL": 0.457942
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410269",
+    "value": {
+      "NO": 0.476176,
+      "DIRECT": 0.172626,
+      "JUDGEMENTAL": 0.351198
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410270",
+    "value": {
+      "NO": 0.385572,
+      "DIRECT": 0.260928,
+      "JUDGEMENTAL": 0.3535
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410271",
+    "value": {
+      "NO": 0.665435,
+      "DIRECT": 0.181003,
+      "JUDGEMENTAL": 0.153562
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410272",
+    "value": {
+      "NO": 0.79337,
+      "DIRECT": 0.148965,
+      "JUDGEMENTAL": 0.057665
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410273",
+    "value": {
+      "NO": 0.235823,
+      "DIRECT": 0.248038,
+      "JUDGEMENTAL": 0.516139
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410274",
+    "value": {
+      "NO": 0.762385,
+      "DIRECT": 0.123911,
+      "JUDGEMENTAL": 0.113704
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410275",
+    "value": {
+      "NO": 0.20387,
+      "DIRECT": 0.268995,
+      "JUDGEMENTAL": 0.527135
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410276",
+    "value": {
+      "NO": 0.279636,
+      "DIRECT": 0.31564,
+      "JUDGEMENTAL": 0.404724
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410277",
+    "value": {
+      "NO": 0.591256,
+      "DIRECT": 0.258415,
+      "JUDGEMENTAL": 0.150328
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410278",
+    "value": {
+      "NO": 0.554558,
+      "DIRECT": 0.237522,
+      "JUDGEMENTAL": 0.20792
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410279",
+    "value": {
+      "NO": 0.569976,
+      "DIRECT": 0.251624,
+      "JUDGEMENTAL": 0.1784
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410280",
+    "value": {
+      "NO": 0.561513,
+      "DIRECT": 0.222822,
+      "JUDGEMENTAL": 0.215664
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410281",
+    "value": {
+      "NO": 0.295827,
+      "DIRECT": 0.447847,
+      "JUDGEMENTAL": 0.256326
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410282",
+    "value": {
+      "NO": 0.479157,
+      "DIRECT": 0.318603,
+      "JUDGEMENTAL": 0.20224
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410283",
+    "value": {
+      "NO": 0.610858,
+      "DIRECT": 0.229256,
+      "JUDGEMENTAL": 0.159887
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410284",
+    "value": {
+      "NO": 0.558229,
+      "DIRECT": 0.216178,
+      "JUDGEMENTAL": 0.225593
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410285",
+    "value": {
+      "NO": 0.450901,
+      "DIRECT": 0.296958,
+      "JUDGEMENTAL": 0.252141
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410286",
+    "value": {
+      "NO": 0.433373,
+      "DIRECT": 0.366372,
+      "JUDGEMENTAL": 0.200255
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410287",
+    "value": {
+      "NO": 0.414654,
+      "DIRECT": 0.196519,
+      "JUDGEMENTAL": 0.388827
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410288",
+    "value": {
+      "NO": 0.303325,
+      "DIRECT": 0.253784,
+      "JUDGEMENTAL": 0.442891
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410289",
+    "value": {
+      "NO": 0.394037,
+      "DIRECT": 0.378185,
+      "JUDGEMENTAL": 0.227778
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410290",
+    "value": {
+      "NO": 0.419239,
+      "DIRECT": 0.214479,
+      "JUDGEMENTAL": 0.366282
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410291",
+    "value": {
+      "NO": 0.310764,
+      "DIRECT": 0.257811,
+      "JUDGEMENTAL": 0.431426
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410292",
+    "value": {
+      "NO": 0.276602,
+      "DIRECT": 0.329509,
+      "JUDGEMENTAL": 0.393889
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410293",
+    "value": {
+      "NO": 0.30396,
+      "DIRECT": 0.347541,
+      "JUDGEMENTAL": 0.348499
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410294",
+    "value": {
+      "NO": 0.046673,
+      "DIRECT": 0.431654,
+      "JUDGEMENTAL": 0.521673
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410295",
+    "value": {
+      "NO": 0.402035,
+      "DIRECT": 0.242534,
+      "JUDGEMENTAL": 0.355431
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410296",
+    "value": {
+      "NO": 0.428664,
+      "DIRECT": 0.338712,
+      "JUDGEMENTAL": 0.232624
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410297",
+    "value": {
+      "NO": 0.491792,
+      "DIRECT": 0.202963,
+      "JUDGEMENTAL": 0.305244
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410298",
+    "value": {
+      "NO": 0.440046,
+      "DIRECT": 0.227408,
+      "JUDGEMENTAL": 0.332547
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410299",
+    "value": {
+      "NO": 0.332251,
+      "DIRECT": 0.370593,
+      "JUDGEMENTAL": 0.297156
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410300",
+    "value": {
+      "NO": 0.124103,
+      "DIRECT": 0.423807,
+      "JUDGEMENTAL": 0.452089
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410301",
+    "value": {
+      "NO": 0.152832,
+      "DIRECT": 0.349389,
+      "JUDGEMENTAL": 0.497779
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410302",
+    "value": {
+      "NO": 0.705029,
+      "DIRECT": 0.242289,
+      "JUDGEMENTAL": 0.052682
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410303",
+    "value": {
+      "NO": 0.16825,
+      "DIRECT": 0.353963,
+      "JUDGEMENTAL": 0.477787
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410304",
+    "value": {
+      "NO": 0.326977,
+      "DIRECT": 0.278179,
+      "JUDGEMENTAL": 0.394844
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410305",
+    "value": {
+      "NO": 0.553366,
+      "DIRECT": 0.275726,
+      "JUDGEMENTAL": 0.170908
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410306",
+    "value": {
+      "NO": 0.68122,
+      "DIRECT": 0.191307,
+      "JUDGEMENTAL": 0.127473
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410307",
+    "value": {
+      "NO": 0.466551,
+      "DIRECT": 0.207696,
+      "JUDGEMENTAL": 0.325753
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410308",
+    "value": {
+      "NO": 0.572568,
+      "DIRECT": 0.21034,
+      "JUDGEMENTAL": 0.217092
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410309",
+    "value": {
+      "NO": 0.533841,
+      "DIRECT": 0.229115,
+      "JUDGEMENTAL": 0.237043
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410310",
+    "value": {
+      "NO": 0.21283,
+      "DIRECT": 0.337826,
+      "JUDGEMENTAL": 0.449344
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410311",
+    "value": {
+      "NO": 0.496206,
+      "DIRECT": 0.300908,
+      "JUDGEMENTAL": 0.202886
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410312",
+    "value": {
+      "NO": 0.32134,
+      "DIRECT": 0.444648,
+      "JUDGEMENTAL": 0.234012
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410313",
+    "value": {
+      "NO": 0.505483,
+      "DIRECT": 0.259519,
+      "JUDGEMENTAL": 0.234998
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410314",
+    "value": {
+      "NO": 0.361372,
+      "DIRECT": 0.245989,
+      "JUDGEMENTAL": 0.392639
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410315",
+    "value": {
+      "NO": 0.718093,
+      "DIRECT": 0.146705,
+      "JUDGEMENTAL": 0.135202
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410316",
+    "value": {
+      "NO": 0.607964,
+      "DIRECT": 0.226126,
+      "JUDGEMENTAL": 0.165911
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410317",
+    "value": {
+      "NO": 0.577135,
+      "DIRECT": 0.334011,
+      "JUDGEMENTAL": 0.088854
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410318",
+    "value": {
+      "NO": 0.439332,
+      "DIRECT": 0.414962,
+      "JUDGEMENTAL": 0.145706
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410319",
+    "value": {
+      "NO": 0.117496,
+      "DIRECT": 0.327459,
+      "JUDGEMENTAL": 0.555045
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410320",
+    "value": {
+      "NO": 0.505859,
+      "DIRECT": 0.164671,
+      "JUDGEMENTAL": 0.32947
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410321",
+    "value": {
+      "NO": 0.065075,
+      "DIRECT": 0.398604,
+      "JUDGEMENTAL": 0.53632
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410322",
+    "value": {
+      "NO": 0.199097,
+      "DIRECT": 0.444775,
+      "JUDGEMENTAL": 0.356128
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410323",
+    "value": {
+      "NO": 0.645677,
+      "DIRECT": 0.142959,
+      "JUDGEMENTAL": 0.211365
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410324",
+    "value": {
+      "NO": 0.472543,
+      "DIRECT": 0.186436,
+      "JUDGEMENTAL": 0.341021
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410325",
+    "value": {
+      "NO": 0.389328,
+      "DIRECT": 0.232867,
+      "JUDGEMENTAL": 0.377805
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410326",
+    "value": {
+      "NO": 0.507708,
+      "DIRECT": 0.17285,
+      "JUDGEMENTAL": 0.319442
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410327",
+    "value": {
+      "NO": 0.41889,
+      "DIRECT": 0.285112,
+      "JUDGEMENTAL": 0.295998
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410328",
+    "value": {
+      "NO": 0.394681,
+      "DIRECT": 0.307042,
+      "JUDGEMENTAL": 0.298277
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410329",
+    "value": {
+      "NO": 0.528392,
+      "DIRECT": 0.255922,
+      "JUDGEMENTAL": 0.215686
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410330",
+    "value": {
+      "NO": 0.563177,
+      "DIRECT": 0.218772,
+      "JUDGEMENTAL": 0.218051
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410331",
+    "value": {
+      "NO": 0.198014,
+      "DIRECT": 0.450336,
+      "JUDGEMENTAL": 0.35165
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410332",
+    "value": {
+      "NO": 0.20986,
+      "DIRECT": 0.320173,
+      "JUDGEMENTAL": 0.469966
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410333",
+    "value": {
+      "NO": 0.196081,
+      "DIRECT": 0.467201,
+      "JUDGEMENTAL": 0.336718
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410334",
+    "value": {
+      "NO": 0.551776,
+      "DIRECT": 0.184054,
+      "JUDGEMENTAL": 0.26417
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410335",
+    "value": {
+      "NO": 0.174982,
+      "DIRECT": 0.414927,
+      "JUDGEMENTAL": 0.410091
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410336",
+    "value": {
+      "NO": 0.275462,
+      "DIRECT": 0.459942,
+      "JUDGEMENTAL": 0.264596
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410337",
+    "value": {
+      "NO": 0.454403,
+      "DIRECT": 0.156536,
+      "JUDGEMENTAL": 0.389061
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410338",
+    "value": {
+      "NO": 0.516649,
+      "DIRECT": 0.31287,
+      "JUDGEMENTAL": 0.17048
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410339",
+    "value": {
+      "NO": 0.533661,
+      "DIRECT": 0.237552,
+      "JUDGEMENTAL": 0.228787
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410340",
+    "value": {
+      "NO": 0.468964,
+      "DIRECT": 0.430861,
+      "JUDGEMENTAL": 0.100175
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410341",
+    "value": {
+      "NO": 0.309016,
+      "DIRECT": 0.401534,
+      "JUDGEMENTAL": 0.289451
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410342",
+    "value": {
+      "NO": 0.461193,
+      "DIRECT": 0.330235,
+      "JUDGEMENTAL": 0.208572
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410343",
+    "value": {
+      "NO": 0.72977,
+      "DIRECT": 0.193954,
+      "JUDGEMENTAL": 0.076276
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410344",
+    "value": {
+      "NO": 0.485633,
+      "DIRECT": 0.332289,
+      "JUDGEMENTAL": 0.182078
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410345",
+    "value": {
+      "NO": 0.614306,
+      "DIRECT": 0.201769,
+      "JUDGEMENTAL": 0.183925
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410346",
+    "value": {
+      "NO": 0.595366,
+      "DIRECT": 0.196135,
+      "JUDGEMENTAL": 0.208499
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410347",
+    "value": {
+      "NO": 0.153592,
+      "DIRECT": 0.386257,
+      "JUDGEMENTAL": 0.46015
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410348",
+    "value": {
+      "NO": 0.245126,
+      "DIRECT": 0.429108,
+      "JUDGEMENTAL": 0.325766
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410349",
+    "value": {
+      "NO": 0.505614,
+      "DIRECT": 0.224705,
+      "JUDGEMENTAL": 0.269681
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410350",
+    "value": {
+      "NO": 0.433687,
+      "DIRECT": 0.34667,
+      "JUDGEMENTAL": 0.219643
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410351",
+    "value": {
+      "NO": 0.168172,
+      "DIRECT": 0.243164,
+      "JUDGEMENTAL": 0.588664
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410352",
+    "value": {
+      "NO": 0.183612,
+      "DIRECT": 0.282492,
+      "JUDGEMENTAL": 0.533896
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410353",
+    "value": {
+      "NO": 0.125085,
+      "DIRECT": 0.23772,
+      "JUDGEMENTAL": 0.637195
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410354",
+    "value": {
+      "NO": 0.109063,
+      "DIRECT": 0.437881,
+      "JUDGEMENTAL": 0.453056
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410355",
+    "value": {
+      "NO": 0.473072,
+      "DIRECT": 0.149887,
+      "JUDGEMENTAL": 0.377041
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410356",
+    "value": {
+      "NO": 0.145139,
+      "DIRECT": 0.217092,
+      "JUDGEMENTAL": 0.637769
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410357",
+    "value": {
+      "NO": 0.350142,
+      "DIRECT": 0.208791,
+      "JUDGEMENTAL": 0.441068
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410358",
+    "value": {
+      "NO": 0.285474,
+      "DIRECT": 0.338866,
+      "JUDGEMENTAL": 0.375659
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410359",
+    "value": {
+      "NO": 0.332561,
+      "DIRECT": 0.437005,
+      "JUDGEMENTAL": 0.230435
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410360",
+    "value": {
+      "NO": 0.56568,
+      "DIRECT": 0.171916,
+      "JUDGEMENTAL": 0.262404
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410361",
+    "value": {
+      "NO": 0.713044,
+      "DIRECT": 0.17638,
+      "JUDGEMENTAL": 0.110576
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410362",
+    "value": {
+      "NO": 0.488666,
+      "DIRECT": 0.288131,
+      "JUDGEMENTAL": 0.223203
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410363",
+    "value": {
+      "NO": 0.517542,
+      "DIRECT": 0.28126,
+      "JUDGEMENTAL": 0.201198
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410364",
+    "value": {
+      "NO": 0.72593,
+      "DIRECT": 0.111265,
+      "JUDGEMENTAL": 0.162804
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410365",
+    "value": {
+      "NO": 0.601059,
+      "DIRECT": 0.194015,
+      "JUDGEMENTAL": 0.204927
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410366",
+    "value": {
+      "NO": 0.34109,
+      "DIRECT": 0.252621,
+      "JUDGEMENTAL": 0.406288
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410367",
+    "value": {
+      "NO": 0.670039,
+      "DIRECT": 0.204892,
+      "JUDGEMENTAL": 0.125069
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410368",
+    "value": {
+      "NO": 0.675859,
+      "DIRECT": 0.124977,
+      "JUDGEMENTAL": 0.199164
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410369",
+    "value": {
+      "NO": 0.72201,
+      "DIRECT": 0.122379,
+      "JUDGEMENTAL": 0.155612
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410370",
+    "value": {
+      "NO": 0.516777,
+      "DIRECT": 0.168773,
+      "JUDGEMENTAL": 0.31445
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410371",
+    "value": {
+      "NO": 0.648013,
+      "DIRECT": 0.197076,
+      "JUDGEMENTAL": 0.154912
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410372",
+    "value": {
+      "NO": 0.802505,
+      "DIRECT": 0.148695,
+      "JUDGEMENTAL": 0.0488
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410373",
+    "value": {
+      "NO": 0.593635,
+      "DIRECT": 0.249771,
+      "JUDGEMENTAL": 0.156594
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410374",
+    "value": {
+      "NO": 0.4075,
+      "DIRECT": 0.275865,
+      "JUDGEMENTAL": 0.316635
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410375",
+    "value": {
+      "NO": 0.472852,
+      "DIRECT": 0.326202,
+      "JUDGEMENTAL": 0.200946
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410376",
+    "value": {
+      "NO": 0.542959,
+      "DIRECT": 0.286846,
+      "JUDGEMENTAL": 0.170194
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410377",
+    "value": {
+      "NO": 0.476788,
+      "DIRECT": 0.401415,
+      "JUDGEMENTAL": 0.121797
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410378",
+    "value": {
+      "NO": 0.410926,
+      "DIRECT": 0.30668,
+      "JUDGEMENTAL": 0.282395
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410379",
+    "value": {
+      "NO": 0.440755,
+      "DIRECT": 0.269091,
+      "JUDGEMENTAL": 0.290154
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410380",
+    "value": {
+      "NO": 0.444315,
+      "DIRECT": 0.37183,
+      "JUDGEMENTAL": 0.183855
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410381",
+    "value": {
+      "NO": 0.148322,
+      "DIRECT": 0.323035,
+      "JUDGEMENTAL": 0.528643
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410382",
+    "value": {
+      "NO": 0.610451,
+      "DIRECT": 0.238233,
+      "JUDGEMENTAL": 0.151317
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410383",
+    "value": {
+      "NO": 0.15707,
+      "DIRECT": 0.479548,
+      "JUDGEMENTAL": 0.363382
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410384",
+    "value": {
+      "NO": 0.556287,
+      "DIRECT": 0.241754,
+      "JUDGEMENTAL": 0.201959
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410385",
+    "value": {
+      "NO": 0.439335,
+      "DIRECT": 0.393684,
+      "JUDGEMENTAL": 0.166981
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410386",
+    "value": {
+      "NO": 0.290554,
+      "DIRECT": 0.451686,
+      "JUDGEMENTAL": 0.25776
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410387",
+    "value": {
+      "NO": 0.3557,
+      "DIRECT": 0.447871,
+      "JUDGEMENTAL": 0.196429
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410388",
+    "value": {
+      "NO": 0.184982,
+      "DIRECT": 0.442834,
+      "JUDGEMENTAL": 0.372184
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410389",
+    "value": {
+      "NO": 0.380901,
+      "DIRECT": 0.403022,
+      "JUDGEMENTAL": 0.216077
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410390",
+    "value": {
+      "NO": 0.356096,
+      "DIRECT": 0.416306,
+      "JUDGEMENTAL": 0.227597
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410391",
+    "value": {
+      "NO": 0.22884,
+      "DIRECT": 0.316481,
+      "JUDGEMENTAL": 0.454679
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410392",
+    "value": {
+      "NO": 0.5716,
+      "DIRECT": 0.234937,
+      "JUDGEMENTAL": 0.193463
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410393",
+    "value": {
+      "NO": 0.334416,
+      "DIRECT": 0.462474,
+      "JUDGEMENTAL": 0.20311
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410394",
+    "value": {
+      "NO": 0.648264,
+      "DIRECT": 0.227131,
+      "JUDGEMENTAL": 0.124605
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410395",
+    "value": {
+      "NO": 0.358746,
+      "DIRECT": 0.413648,
+      "JUDGEMENTAL": 0.227607
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410396",
+    "value": {
+      "NO": 0.514048,
+      "DIRECT": 0.22094,
+      "JUDGEMENTAL": 0.265012
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410397",
+    "value": {
+      "NO": 0.318296,
+      "DIRECT": 0.331212,
+      "JUDGEMENTAL": 0.350492
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410398",
+    "value": {
+      "NO": 0.550794,
+      "DIRECT": 0.282964,
+      "JUDGEMENTAL": 0.166241
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410399",
+    "value": {
+      "NO": 0.414159,
+      "DIRECT": 0.368587,
+      "JUDGEMENTAL": 0.217254
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410400",
+    "value": {
+      "NO": 0.47144,
+      "DIRECT": 0.277065,
+      "JUDGEMENTAL": 0.251496
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410401",
+    "value": {
+      "NO": 0.473495,
+      "DIRECT": 0.239065,
+      "JUDGEMENTAL": 0.28744
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410402",
+    "value": {
+      "NO": 0.400544,
+      "DIRECT": 0.332319,
+      "JUDGEMENTAL": 0.267137
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410403",
+    "value": {
+      "NO": 0.189918,
+      "DIRECT": 0.285952,
+      "JUDGEMENTAL": 0.52413
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410404",
+    "value": {
+      "NO": 0.393365,
+      "DIRECT": 0.227895,
+      "JUDGEMENTAL": 0.37874
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410405",
+    "value": {
+      "NO": 0.527244,
+      "DIRECT": 0.258054,
+      "JUDGEMENTAL": 0.214702
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410406",
+    "value": {
+      "NO": 0.321502,
+      "DIRECT": 0.506589,
+      "JUDGEMENTAL": 0.171908
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410407",
+    "value": {
+      "NO": 0.611134,
+      "DIRECT": 0.221697,
+      "JUDGEMENTAL": 0.167168
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410408",
+    "value": {
+      "NO": 0.533752,
+      "DIRECT": 0.3057,
+      "JUDGEMENTAL": 0.160548
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410409",
+    "value": {
+      "NO": 0.584939,
+      "DIRECT": 0.177546,
+      "JUDGEMENTAL": 0.237515
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410410",
+    "value": {
+      "NO": 0.375259,
+      "DIRECT": 0.314721,
+      "JUDGEMENTAL": 0.310021
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410411",
+    "value": {
+      "NO": 0.455063,
+      "DIRECT": 0.243285,
+      "JUDGEMENTAL": 0.301652
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410412",
+    "value": {
+      "NO": 0.554716,
+      "DIRECT": 0.208121,
+      "JUDGEMENTAL": 0.237163
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410413",
+    "value": {
+      "NO": 0.397083,
+      "DIRECT": 0.320697,
+      "JUDGEMENTAL": 0.28222
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410414",
+    "value": {
+      "NO": 0.42144,
+      "DIRECT": 0.400336,
+      "JUDGEMENTAL": 0.178224
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410415",
+    "value": {
+      "NO": 0.349673,
+      "DIRECT": 0.394751,
+      "JUDGEMENTAL": 0.255576
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410416",
+    "value": {
+      "NO": 0.708216,
+      "DIRECT": 0.134595,
+      "JUDGEMENTAL": 0.157189
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410417",
+    "value": {
+      "NO": 0.288646,
+      "DIRECT": 0.406369,
+      "JUDGEMENTAL": 0.304985
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410418",
+    "value": {
+      "NO": 0.307349,
+      "DIRECT": 0.290285,
+      "JUDGEMENTAL": 0.402366
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410419",
+    "value": {
+      "NO": 0.5322,
+      "DIRECT": 0.334848,
+      "JUDGEMENTAL": 0.132953
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410420",
+    "value": {
+      "NO": 0.509396,
+      "DIRECT": 0.299259,
+      "JUDGEMENTAL": 0.191344
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410421",
+    "value": {
+      "NO": 0.489608,
+      "DIRECT": 0.336118,
+      "JUDGEMENTAL": 0.174274
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410422",
+    "value": {
+      "NO": 0.424259,
+      "DIRECT": 0.341896,
+      "JUDGEMENTAL": 0.233846
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410423",
+    "value": {
+      "NO": 0.495392,
+      "DIRECT": 0.199594,
+      "JUDGEMENTAL": 0.305014
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410424",
+    "value": {
+      "NO": 0.553722,
+      "DIRECT": 0.236405,
+      "JUDGEMENTAL": 0.209873
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410425",
+    "value": {
+      "NO": 0.208895,
+      "DIRECT": 0.345638,
+      "JUDGEMENTAL": 0.445467
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410426",
+    "value": {
+      "NO": 0.45403,
+      "DIRECT": 0.344433,
+      "JUDGEMENTAL": 0.201537
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410427",
+    "value": {
+      "NO": 0.134575,
+      "DIRECT": 0.161245,
+      "JUDGEMENTAL": 0.70418
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410428",
+    "value": {
+      "NO": 0.391995,
+      "DIRECT": 0.361386,
+      "JUDGEMENTAL": 0.246619
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410429",
+    "value": {
+      "NO": 0.559861,
+      "DIRECT": 0.243791,
+      "JUDGEMENTAL": 0.196348
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410430",
+    "value": {
+      "NO": 0.533517,
+      "DIRECT": 0.1874,
+      "JUDGEMENTAL": 0.279082
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410431",
+    "value": {
+      "NO": 0.611975,
+      "DIRECT": 0.213909,
+      "JUDGEMENTAL": 0.174116
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410432",
+    "value": {
+      "NO": 0.462824,
+      "DIRECT": 0.225647,
+      "JUDGEMENTAL": 0.311529
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410433",
+    "value": {
+      "NO": 0.226439,
+      "DIRECT": 0.239268,
+      "JUDGEMENTAL": 0.534293
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410434",
+    "value": {
+      "NO": 0.65039,
+      "DIRECT": 0.221401,
+      "JUDGEMENTAL": 0.128209
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410435",
+    "value": {
+      "NO": 0.715673,
+      "DIRECT": 0.199333,
+      "JUDGEMENTAL": 0.084993
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410436",
+    "value": {
+      "NO": 0.665722,
+      "DIRECT": 0.153071,
+      "JUDGEMENTAL": 0.181207
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410437",
+    "value": {
+      "NO": 0.520237,
+      "DIRECT": 0.251071,
+      "JUDGEMENTAL": 0.228693
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410438",
+    "value": {
+      "NO": 0.772585,
+      "DIRECT": 0.145835,
+      "JUDGEMENTAL": 0.08158
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410439",
+    "value": {
+      "NO": 0.553368,
+      "DIRECT": 0.300184,
+      "JUDGEMENTAL": 0.146448
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410440",
+    "value": {
+      "NO": 0.480245,
+      "DIRECT": 0.162242,
+      "JUDGEMENTAL": 0.357514
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410441",
+    "value": {
+      "NO": 0.454163,
+      "DIRECT": 0.387029,
+      "JUDGEMENTAL": 0.158808
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410442",
+    "value": {
+      "NO": 0.268742,
+      "DIRECT": 0.47037,
+      "JUDGEMENTAL": 0.260888
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410443",
+    "value": {
+      "NO": 0.313317,
+      "DIRECT": 0.338685,
+      "JUDGEMENTAL": 0.347998
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410444",
+    "value": {
+      "NO": 0.414903,
+      "DIRECT": 0.281424,
+      "JUDGEMENTAL": 0.303672
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410445",
+    "value": {
+      "NO": 0.459212,
+      "DIRECT": 0.152025,
+      "JUDGEMENTAL": 0.388763
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410446",
+    "value": {
+      "NO": 0.54058,
+      "DIRECT": 0.303291,
+      "JUDGEMENTAL": 0.156129
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410447",
+    "value": {
+      "NO": 0.407966,
+      "DIRECT": 0.151053,
+      "JUDGEMENTAL": 0.440981
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410448",
+    "value": {
+      "NO": 0.446464,
+      "DIRECT": 0.281922,
+      "JUDGEMENTAL": 0.271615
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410449",
+    "value": {
+      "NO": 0.463009,
+      "DIRECT": 0.315924,
+      "JUDGEMENTAL": 0.221067
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410450",
+    "value": {
+      "NO": 0.316985,
+      "DIRECT": 0.309571,
+      "JUDGEMENTAL": 0.373444
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410451",
+    "value": {
+      "NO": 0.2796,
+      "DIRECT": 0.366779,
+      "JUDGEMENTAL": 0.353622
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410452",
+    "value": {
+      "NO": 0.612291,
+      "DIRECT": 0.279522,
+      "JUDGEMENTAL": 0.108187
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410453",
+    "value": {
+      "NO": 0.406346,
+      "DIRECT": 0.23176,
+      "JUDGEMENTAL": 0.361894
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410454",
+    "value": {
+      "NO": 0.57842,
+      "DIRECT": 0.269647,
+      "JUDGEMENTAL": 0.151932
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410455",
+    "value": {
+      "NO": 0.549724,
+      "DIRECT": 0.230912,
+      "JUDGEMENTAL": 0.219363
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410456",
+    "value": {
+      "NO": 0.485435,
+      "DIRECT": 0.24008,
+      "JUDGEMENTAL": 0.274485
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410457",
+    "value": {
+      "NO": 0.204673,
+      "DIRECT": 0.446502,
+      "JUDGEMENTAL": 0.348825
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410458",
+    "value": {
+      "NO": 0.490064,
+      "DIRECT": 0.28812,
+      "JUDGEMENTAL": 0.221816
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410459",
+    "value": {
+      "NO": 0.290873,
+      "DIRECT": 0.221328,
+      "JUDGEMENTAL": 0.487799
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410460",
+    "value": {
+      "NO": 0.153665,
+      "DIRECT": 0.535438,
+      "JUDGEMENTAL": 0.310897
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410461",
+    "value": {
+      "NO": 0.26619,
+      "DIRECT": 0.288301,
+      "JUDGEMENTAL": 0.44551
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410462",
+    "value": {
+      "NO": 0.3602,
+      "DIRECT": 0.377343,
+      "JUDGEMENTAL": 0.262457
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410463",
+    "value": {
+      "NO": 0.444803,
+      "DIRECT": 0.294952,
+      "JUDGEMENTAL": 0.260245
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410464",
+    "value": {
+      "NO": 0.148784,
+      "DIRECT": 0.219804,
+      "JUDGEMENTAL": 0.631412
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410465",
+    "value": {
+      "NO": 0.402274,
+      "DIRECT": 0.383877,
+      "JUDGEMENTAL": 0.213849
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410466",
+    "value": {
+      "NO": 0.307751,
+      "DIRECT": 0.361039,
+      "JUDGEMENTAL": 0.33121
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410467",
+    "value": {
+      "NO": 0.277481,
+      "DIRECT": 0.379211,
+      "JUDGEMENTAL": 0.343308
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410468",
+    "value": {
+      "NO": 0.328358,
+      "DIRECT": 0.431194,
+      "JUDGEMENTAL": 0.240448
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410469",
+    "value": {
+      "NO": 0.286635,
+      "DIRECT": 0.253142,
+      "JUDGEMENTAL": 0.460224
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410470",
+    "value": {
+      "NO": 0.43666,
+      "DIRECT": 0.308555,
+      "JUDGEMENTAL": 0.254785
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410471",
+    "value": {
+      "NO": 0.34958,
+      "DIRECT": 0.246232,
+      "JUDGEMENTAL": 0.404189
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410472",
+    "value": {
+      "NO": 0.189912,
+      "DIRECT": 0.319006,
+      "JUDGEMENTAL": 0.491081
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410473",
+    "value": {
+      "NO": 0.205356,
+      "DIRECT": 0.527088,
+      "JUDGEMENTAL": 0.267557
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410474",
+    "value": {
+      "NO": 0.231313,
+      "DIRECT": 0.293319,
+      "JUDGEMENTAL": 0.475368
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410475",
+    "value": {
+      "NO": 0.268092,
+      "DIRECT": 0.428863,
+      "JUDGEMENTAL": 0.303045
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410476",
+    "value": {
+      "NO": 0.519043,
+      "DIRECT": 0.338604,
+      "JUDGEMENTAL": 0.142353
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410477",
+    "value": {
+      "NO": 0.347241,
+      "DIRECT": 0.459201,
+      "JUDGEMENTAL": 0.193558
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410478",
+    "value": {
+      "NO": 0.707457,
+      "DIRECT": 0.209657,
+      "JUDGEMENTAL": 0.082885
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410479",
+    "value": {
+      "NO": 0.19207,
+      "DIRECT": 0.384923,
+      "JUDGEMENTAL": 0.423007
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410480",
+    "value": {
+      "NO": 0.335947,
+      "DIRECT": 0.37253,
+      "JUDGEMENTAL": 0.291523
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410481",
+    "value": {
+      "NO": 0.296593,
+      "DIRECT": 0.366587,
+      "JUDGEMENTAL": 0.33682
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410482",
+    "value": {
+      "NO": 0.356605,
+      "DIRECT": 0.347061,
+      "JUDGEMENTAL": 0.296334
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410483",
+    "value": {
+      "NO": 0.181419,
+      "DIRECT": 0.420995,
+      "JUDGEMENTAL": 0.397586
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410484",
+    "value": {
+      "NO": 0.169994,
+      "DIRECT": 0.313849,
+      "JUDGEMENTAL": 0.516158
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410485",
+    "value": {
+      "NO": 0.187771,
+      "DIRECT": 0.420522,
+      "JUDGEMENTAL": 0.391706
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410486",
+    "value": {
+      "NO": 0.211498,
+      "DIRECT": 0.35482,
+      "JUDGEMENTAL": 0.433682
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410487",
+    "value": {
+      "NO": 0.154349,
+      "DIRECT": 0.230485,
+      "JUDGEMENTAL": 0.615165
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410488",
+    "value": {
+      "NO": 0.315327,
+      "DIRECT": 0.297202,
+      "JUDGEMENTAL": 0.38747
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410489",
+    "value": {
+      "NO": 0.430748,
+      "DIRECT": 0.193917,
+      "JUDGEMENTAL": 0.375335
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410490",
+    "value": {
+      "NO": 0.246298,
+      "DIRECT": 0.368009,
+      "JUDGEMENTAL": 0.385693
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410491",
+    "value": {
+      "NO": 0.209458,
+      "DIRECT": 0.268748,
+      "JUDGEMENTAL": 0.521794
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410492",
+    "value": {
+      "NO": 0.176249,
+      "DIRECT": 0.33328,
+      "JUDGEMENTAL": 0.490471
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410493",
+    "value": {
+      "NO": 0.431056,
+      "DIRECT": 0.191994,
+      "JUDGEMENTAL": 0.37695
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410494",
+    "value": {
+      "NO": 0.255366,
+      "DIRECT": 0.404697,
+      "JUDGEMENTAL": 0.339937
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410495",
+    "value": {
+      "NO": 0.510226,
+      "DIRECT": 0.201528,
+      "JUDGEMENTAL": 0.288246
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410496",
+    "value": {
+      "NO": 0.156578,
+      "DIRECT": 0.534023,
+      "JUDGEMENTAL": 0.309399
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410497",
+    "value": {
+      "NO": 0.316741,
+      "DIRECT": 0.406525,
+      "JUDGEMENTAL": 0.276734
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410498",
+    "value": {
+      "NO": 0.558612,
+      "DIRECT": 0.268811,
+      "JUDGEMENTAL": 0.172577
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410499",
+    "value": {
+      "NO": 0.616401,
+      "DIRECT": 0.258564,
+      "JUDGEMENTAL": 0.125035
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410500",
+    "value": {
+      "NO": 0.515671,
+      "DIRECT": 0.21459,
+      "JUDGEMENTAL": 0.269739
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410501",
+    "value": {
+      "NO": 0.176776,
+      "DIRECT": 0.320472,
+      "JUDGEMENTAL": 0.502753
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410502",
+    "value": {
+      "NO": 0.234242,
+      "DIRECT": 0.243582,
+      "JUDGEMENTAL": 0.522177
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410503",
+    "value": {
+      "NO": 0.07599,
+      "DIRECT": 0.138038,
+      "JUDGEMENTAL": 0.785972
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410504",
+    "value": {
+      "NO": 0.229155,
+      "DIRECT": 0.260033,
+      "JUDGEMENTAL": 0.510813
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410505",
+    "value": {
+      "NO": 0.418597,
+      "DIRECT": 0.324524,
+      "JUDGEMENTAL": 0.256879
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410506",
+    "value": {
+      "NO": 0.302037,
+      "DIRECT": 0.423137,
+      "JUDGEMENTAL": 0.274826
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410507",
+    "value": {
+      "NO": 0.285369,
+      "DIRECT": 0.325485,
+      "JUDGEMENTAL": 0.389146
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410508",
+    "value": {
+      "NO": 0.250405,
+      "DIRECT": 0.540119,
+      "JUDGEMENTAL": 0.209476
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410509",
+    "value": {
+      "NO": 0.268887,
+      "DIRECT": 0.331663,
+      "JUDGEMENTAL": 0.39945
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410510",
+    "value": {
+      "NO": 0.192857,
+      "DIRECT": 0.384334,
+      "JUDGEMENTAL": 0.422809
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410511",
+    "value": {
+      "NO": 0.367614,
+      "DIRECT": 0.350218,
+      "JUDGEMENTAL": 0.282168
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410512",
+    "value": {
+      "NO": 0.120626,
+      "DIRECT": 0.47553,
+      "JUDGEMENTAL": 0.403844
+    }
+  },
+  {
+    "test_case": "EXIST2026",
+    "id": "410513",
+    "value": {
+      "NO": 0.135972,
+      "DIRECT": 0.208908,
+      "JUDGEMENTAL": 0.65512
+    }
+  }
+]

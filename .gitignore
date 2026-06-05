@@ -1,0 +1,68 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# DATA & MODELS — NEVER COMMIT
+# The EXIST 2026 dataset is released under a usage agreement that prohibits
+# redistribution, and it contains sensitive biometric (EEG / eye-tracking /
+# heart-rate) and demographic data. Trained weights and extracted features are
+# derived from it and are also large. See DATA.md for how to obtain the data.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Raw dataset (images + annotations + sensor signals)
+EXIST 2026 Memes Dataset/
+*EXIST2026_training.json
+*EXIST2026_test*.json
+
+# Extracted features (embeddings of the protected data)
+project/features/
+*.npy
+*.pkl
+
+# Trained model weights / checkpoints
+project/models/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+*_ckpt/
+
+# Evaluation gold/pred data (contains gold labels)
+project/eval_pyevall/
+evaluation/
+
+# Packaged submissions / archives
+*.zip
+
+# PDFs (lab guidelines, reference papers — not redistributable)
+*.pdf
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Python
+# ─────────────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tooling / OS / IDE
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Logs & temp
+*.log
+wandb/
+runs_tb/
