@@ -2,7 +2,7 @@
 
 Detecting and characterising sexism in memes by combining **text**, **image**,
 and **physiological sensor signals** (eye-tracking, EEG, heart-rate). Built for
-the [**EXIST 2026**](https://nlp.uned.es/exist2026/) shared task (Task 2 —
+the [**EXIST 2026**](https://nlp.uned.es/exist2026/) shared task (Task 2 -
 memes), covering all three subtasks:
 
 | Subtask | Goal | Type |
@@ -13,7 +13,7 @@ memes), covering all three subtasks:
 
 > **The core research question:** do biometric reactions from people *viewing*
 > a meme (where their eyes go, pupil dilation, EEG, heart-rate) carry signal
-> about whether that meme is sexist — on top of the text and image themselves?
+> about whether that meme is sexist - on top of the text and image themselves?
 
 📄 **[Project slides](docs/presentation.pdf)** · **[Full report](docs/report.pdf)**
 
@@ -26,14 +26,10 @@ backbone (multilingual: the memes are English + Spanish), tailored per task and
 combined with the other modalities via **late fusion**.
 
 ```
-        ┌──────────────┐   ┌──────────────┐   ┌─────────────────────┐
- text → │  XLM-RoBERTa │   │ image embed. │   │ sensor features      │
-        │ (fine-tuned) │   │  + LogReg    │   │ (ET / EEG / HR)      │
-        └──────┬───────┘   └──────┬───────┘   └──────────┬──────────┘
-               │ P(class)         └──────── LogReg ───────┘ P(class)
-               │                              │
-               └──────── α·text + (1−α)·sensors ───────► final prediction
-                          (α swept on validation)
+text                          ->  XLM-RoBERTa (fine-tuned)  ->  P_text
+image + sensors (ET/EEG/HR)   ->  LogReg                    ->  P_sensor
+
+final = alpha * P_text + (1 - alpha) * P_sensor       (alpha swept on validation)
 ```
 
 | Subtask | Model | Key techniques |
@@ -52,8 +48,8 @@ disagreement evaluation.
 
 ### Does multimodality help? (5-fold CV, macro-F1)
 
-The headline ablation — text alone vs. adding image vs. adding physiological
-signals — from [`project/cv_phys_results.json`](project/cv_phys_results.json):
+The headline ablation - text alone vs. adding image vs. adding physiological
+signals - from [`project/cv_phys_results.json`](project/cv_phys_results.json):
 
 | Modalities            | Task 2.1 | Task 2.2 | Task 2.3 |
 |-----------------------|:--------:|:--------:|:--------:|
@@ -79,9 +75,9 @@ The submission model for Task 2.1 (XLM-R large + image/sensor late fusion,
 
 ```
 project/
-├── task2_1_yesno.py        # Subtask 2.1 — binary (XLM-R large + late fusion)
-├── task2_2_type.py         # Subtask 2.2 — type   (XLM-R large + LoRA + focal loss)
-├── task2_3_category.py     # Subtask 2.3 — multi-label categories
+├── task2_1_yesno.py        # Subtask 2.1 - binary (XLM-R large + late fusion)
+├── task2_2_type.py         # Subtask 2.2 - type   (XLM-R large + LoRA + focal loss)
+├── task2_3_category.py     # Subtask 2.3 - multi-label categories
 ├── train_baselines.py      # Vanilla XLM-R-base baselines for all 3 subtasks
 ├── regen_figures.py        # Rebuild result figures
 ├── make_arch_figure.py     # Architecture diagram
@@ -116,7 +112,7 @@ python project/task2_2_type.py
 python project/task2_3_category.py
 ```
 
-A CUDA GPU is recommended — the 2.1/2.2 models fine-tune XLM-R-large
+A CUDA GPU is recommended - the 2.1/2.2 models fine-tune XLM-R-large
 (bf16, gradient checkpointing).
 
 ---
@@ -132,4 +128,4 @@ A CUDA GPU is recommended — the 2.1/2.2 models fine-tune XLM-R-large
 
 ---
 
-*Author: Klaudia Banasiewicz · EXIST 2026 shared task (Task 2 — memes).*
+*Author: Klaudia Banasiewicz · EXIST 2026 shared task (Task 2 - memes).*

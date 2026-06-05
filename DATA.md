@@ -1,7 +1,7 @@
 # Data access
 
 This repository **does not include the dataset, extracted features, or trained
-model weights** — and intentionally so.
+model weights** - and intentionally so.
 
 ## Why the data is not here
 
