@@ -34,7 +34,7 @@ evaluation/
 # PDFs — lab guidelines and third-party reference papers are NOT redistributable.
 # Your own project presentation is whitelisted below and stays in the repo.
 *.pdf
-!project/LNR project presentation.pdf
+!docs/presentation.pdf
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Python
