@@ -81,11 +81,8 @@ project/
 ├── task2_2_type.py         # Subtask 2.2 — type   (XLM-R large + LoRA + focal loss)
 ├── task2_3_category.py     # Subtask 2.3 — multi-label categories
 ├── train_baselines.py      # Vanilla XLM-R-base baselines for all 3 subtasks
-├── evaluate_pyevall.py     # Scoring via the official PyEvALL framework
-├── evaluate_comparison.py  # Model-vs-model comparison
 ├── regen_figures.py        # Rebuild result figures
 ├── make_arch_figure.py     # Architecture diagram
-├── build_presentation.py   # Auto-generate the slide deck
 ├── src/
 │   ├── config.py           # Paths, label sets, team constants
 │   └── data_utils.py        # JSON loading + hard/soft label construction
@@ -114,9 +111,6 @@ pip install -r requirements.txt
 python project/task2_1_yesno.py
 python project/task2_2_type.py
 python project/task2_3_category.py
-
-# 4. Score with the official framework
-python project/evaluate_pyevall.py
 ```
 
 A CUDA GPU is recommended — the 2.1/2.2 models fine-tune XLM-R-large

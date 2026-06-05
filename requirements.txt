@@ -5,11 +5,5 @@ peft>=0.10              # LoRA adapters (Task 2.2)
 scikit-learn>=1.3      # LogReg fusion, metrics, stratified splits
 numpy>=1.24
 
-# Plotting / reporting
+# Plotting (figure generation)
 matplotlib>=3.7
-python-pptx>=0.6.21    # build_presentation.py (optional)
-
-# Official EXIST evaluation framework
-# Install from the organizers' repo: https://github.com/UEvora/PyEvALL
-# pip install PyEvALL
-PyEvALL
