@@ -113,7 +113,7 @@ def write_run(entries, task, mode):
 
 def main():
     print("=" * 60)
-    print("Task 2.3  —  Multi-label categories  (XLM-R base)")
+    print("Task 2.3  --  Multi-label categories  (XLM-R base)")
     print("=" * 60)
 
     train_recs = build_memes_records(load_json(MEMES_TRAIN_JSON), is_test=False)
@@ -230,7 +230,7 @@ def main():
             hard_val = selected
         hard_entries.append({"test_case": TEST_CASE, "id": sid, "value": hard_val})
 
-        # Soft: T2.1 probability gates T2.3 — coherent joint distribution
+        # Soft: T2.1 probability gates T2.3 for a coherent joint distribution
         soft_val = {"NO": round(p_no, 6)}
         soft_val.update({c: round(p_yes * float(test_probs[i, j]), 6)
                          for j, c in enumerate(CATEGORIES)})

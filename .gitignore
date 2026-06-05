@@ -1,0 +1,62 @@
+# Data, features, and model weights are not committed. The EXIST 2026 dataset
+# is under a usage agreement and contains sensitive biometric data (see DATA.md).
+
+# Raw dataset
+EXIST 2026 Memes Dataset/
+*EXIST2026_training.json
+*EXIST2026_test*.json
+
+# Extracted features
+project/features/
+*.npy
+*.pkl
+
+# Model weights and checkpoints
+project/models/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+*_ckpt/
+
+# Evaluation gold/pred data
+project/eval_pyevall/
+evaluation/
+
+# Archives
+*.zip
+
+# PDFs (only the slides and report are kept)
+*.pdf
+!docs/presentation.pdf
+!docs/report.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS / IDE
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Logs
+*.log
+wandb/

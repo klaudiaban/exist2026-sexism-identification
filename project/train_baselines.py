@@ -122,17 +122,17 @@ def main():
     y23 = np.array([label2id_23[primary_label_t23(r["hard_t23"])] for r in recs])
 
     train_one(
-        "Task 2.1 — Binary (YES / NO)",
+        "Task 2.1 - Binary (YES / NO)",
         MODELS_DIR / "xlmr_base_baseline_task2_1",
         texts, y21, TASK1_LABELS,
     )
     train_one(
-        "Task 2.2 — Type (NO / DIRECT / JUDGEMENTAL)",
+        "Task 2.2 - Type (NO / DIRECT / JUDGEMENTAL)",
         MODELS_DIR / "xlmr_base_baseline_task2_2",
         texts, y22, TASK2_LABELS,
     )
     train_one(
-        "Task 2.3 — Category single-label (NO + 5 categories)",
+        "Task 2.3 - Category single-label (NO + 5 categories)",
         MODELS_DIR / "xlmr_base_baseline_task2_3",
         texts, y23, TASK3_LABELS,
     )

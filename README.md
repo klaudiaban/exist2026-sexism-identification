@@ -15,7 +15,7 @@ memes), covering all three subtasks:
 > a meme (where their eyes go, pupil dilation, EEG, heart-rate) carry signal
 > about whether that meme is sexist — on top of the text and image themselves?
 
-📄 **[Project slides](docs/presentation.pdf)** · **[Full report (LaTeX)](docs/report.tex)**
+📄 **[Project slides](docs/presentation.pdf)** · **[Full report](docs/report.pdf)**
 
 ---
 
@@ -92,7 +92,7 @@ project/
 └── runs/                   # Example submission files (hard + soft, per task)
 docs/
 ├── presentation.pdf        # Project slides
-└── report.tex              # Project write-up (LaTeX)
+└── report.pdf              # Project write-up
 ```
 
 > **Not in the repo:** the dataset, extracted features, and trained weights are
