@@ -31,9 +31,6 @@ evaluation/
 # Packaged submissions / archives
 *.zip
 
-# PDFs (lab guidelines, reference papers — not redistributable)
-*.pdf
-
 # ─────────────────────────────────────────────────────────────────────────────
 # Python
 # ─────────────────────────────────────────────────────────────────────────────
