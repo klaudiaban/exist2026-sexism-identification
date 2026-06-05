@@ -1,6 +1,4 @@
-"""
-Load JSON datasets and generate hard / soft labels for every task.
-"""
+"""Load the JSON datasets and build hard/soft labels for each task."""
 import json
 import pickle
 from collections import Counter
@@ -17,8 +15,6 @@ def load_json(path: Path) -> dict:
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 
-
-# ─── Hard label helpers ───────────────────────────────────────────────────────
 
 def hard_binary(votes: List[str]) -> str:
     """Majority vote for YES/NO."""
@@ -53,8 +49,6 @@ def hard_categories(per_annotator: List[List[str]]) -> List[str]:
     return [counts.most_common(1)[0][0]]
 
 
-# ─── Soft label helpers ───────────────────────────────────────────────────────
-
 def soft_binary(votes: List[str]) -> dict:
     n = len(votes)
     c = Counter(votes)
@@ -80,8 +74,6 @@ def soft_categories(per_annotator: List[List[str]]) -> dict:
     return {lbl: round(counts.get(lbl, 0) / n, 6) for lbl in TASK3_LABELS}
 
 
-# ─── Dataset records ──────────────────────────────────────────────────────────
-
 def build_memes_records(data: dict, is_test: bool = False) -> List[dict]:
     """
     Returns a list of dicts with all info needed for feature extraction + labels.
@@ -106,8 +98,6 @@ def build_memes_records(data: dict, is_test: bool = False) -> List[dict]:
         records.append(rec)
     return records
 
-
-# ─── Label matrices for sklearn ───────────────────────────────────────────────
 
 def records_to_label_matrix(records: List[dict], task_key: str) -> list:
     """Extract a flat list of labels from records for a given task key."""

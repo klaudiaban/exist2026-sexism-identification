@@ -1,15 +1,4 @@
-"""
-Train simple XLM-R-base baselines for Tasks 2.1, 2.2, 2.3.
-
-No oversampling, no fusion, no multi-label tricks — just vanilla fine-tuning
-with standard cross-entropy. These are the "basic XLM-R" baselines used in
-the comparison figures.
-
-Saved to:
-  models/xlmr_base_baseline_task2_1   (binary: YES / NO)
-  models/xlmr_base_baseline_task2_2   (3-class: NO / DIRECT / JUDGEMENTAL)
-  models/xlmr_base_baseline_task2_3   (6-class single-label: NO + 5 categories)
-"""
+"""Text-only XLM-R-base baselines for Tasks 2.1, 2.2 and 2.3."""
 import sys
 from pathlib import Path
 from collections import Counter
@@ -32,7 +21,7 @@ LR        = 2e-5
 VAL_FRAC  = 0.10
 RAND_SEED = 42
 
-KNOWN_TASK3 = set(TASK3_LABELS)   # includes "NO"
+KNOWN_TASK3 = set(TASK3_LABELS)
 
 
 def primary_label_t23(hard_t23):

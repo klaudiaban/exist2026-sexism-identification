@@ -1,9 +1,4 @@
-"""Render the late-fusion architecture diagram as a PNG.
-
-Mirrors the pipeline described in the report: three inputs (text / image /
-sensors) -> two model branches (XLM-R / logistic regression) -> late fusion
--> prediction. Output: project/figures/fusion_architecture.png
-"""
+"""Render the late-fusion architecture diagram to figures/fusion_architecture.png."""
 from pathlib import Path
 import matplotlib
 matplotlib.use("Agg")
@@ -13,7 +8,6 @@ from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
 FIG = Path(__file__).parent / "figures"
 FIG.mkdir(exist_ok=True)
 
-# palette (muted, print-friendly)
 C_IN   = "#DCE6F4"; E_IN   = "#3E6DB5"
 C_MOD  = "#ECECEC"; E_MOD  = "#555555"
 C_FUSE = "#FBE2C4"; E_FUSE = "#C7791F"
@@ -25,8 +19,8 @@ ax.set_xlim(-1.6, 14.7)
 ax.set_ylim(-3.0, 3.0)
 ax.axis("off")
 
-boxes = {}  # name -> (cx, cy, w, h)
-LSP = 0.40   # line spacing
+boxes = {}
+LSP = 0.40
 
 
 def box(name, cx, cy, w, h, face, edge, title, subs):
@@ -35,7 +29,6 @@ def box(name, cx, cy, w, h, face, edge, title, subs):
         (cx - w / 2, cy - h / 2), w, h,
         boxstyle="round,pad=0.02,rounding_size=0.10",
         linewidth=1.6, edgecolor=edge, facecolor=face, zorder=3))
-    # vertically centre the whole text block (title + subtitles) inside the box
     lines = len(subs) + 1
     top = cy + (lines - 1) / 2 * LSP
     ax.text(cx, top, title, ha="center", va="center",

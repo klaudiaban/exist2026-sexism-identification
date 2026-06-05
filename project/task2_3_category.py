@@ -1,12 +1,4 @@
-"""
-Task 2.3: Sexism category classification  (multi-label).
-
-Model: XLM-RoBERTa-base full fine-tune
-       with BCEWithLogitsLoss (one sigmoid per category).
-Labels: IDEOLOGICAL-INEQUALITY, STEREOTYPING-DOMINANCE,
-        MISOGYNY-NON-SEXUAL-VIOLENCE, SEXUAL-VIOLENCE, OBJECTIFICATION
-        (NO is inferred as the complement)
-"""
+"""Task 2.3: multi-label sexism category classification using XLM-R base with BCE loss."""
 import gc
 import json
 import sys
@@ -33,19 +25,16 @@ from config import (
 )
 from data_utils import load_json, build_memes_records
 
-# ── Constants ─────────────────────────────────────────────────────────────────
 MODEL_ID     = "xlm-roberta-base"
 SAVE_DIR     = MODELS_DIR / "xlmr_base_task2_3"
 CKPT_DIR     = MODELS_DIR / "xlmr_base_task2_3_ckpt"
-CATEGORIES   = [l for l in TASK3_LABELS if l != "NO"]  # 5 sexism categories
+CATEGORIES   = [l for l in TASK3_LABELS if l != "NO"]
 CAT2IDX      = {c: i for i, c in enumerate(CATEGORIES)}
 MAX_LEN      = 128
 VAL_FRAC     = 0.10
 THRESHOLD    = 0.5
 RANDOM_STATE = 42
 
-
-# ── Label helpers ─────────────────────────────────────────────────────────────
 
 def records_to_binary_matrix(records) -> np.ndarray:
     """Convert hard_t23 category lists to a binary (n, 5) float matrix."""
@@ -56,8 +45,6 @@ def records_to_binary_matrix(records) -> np.ndarray:
                 Y[i, CAT2IDX[lbl]] = 1.0
     return Y
 
-
-# ── Dataset ───────────────────────────────────────────────────────────────────
 
 class MemeDataset(Dataset):
     def __init__(self, texts, labels, tokenizer):
@@ -77,8 +64,6 @@ class MemeDataset(Dataset):
             "labels":         self.labels[i],
         }
 
-
-# ── Multi-label Trainer ───────────────────────────────────────────────────────
 
 class MultiLabelTrainer(Trainer):
     def __init__(self, pos_weight, *args, **kwargs):
@@ -105,8 +90,6 @@ def compute_metrics(eval_pred):
                             average="macro", zero_division=0)}
 
 
-# ── Inference helper ──────────────────────────────────────────────────────────
-
 def get_probs(model, tokenizer, texts, device, batch=32) -> np.ndarray:
     model.eval()
     all_probs = []
@@ -121,8 +104,6 @@ def get_probs(model, tokenizer, texts, device, batch=32) -> np.ndarray:
     return np.concatenate(all_probs, axis=0)
 
 
-# ── Submission writer ─────────────────────────────────────────────────────────
-
 def write_run(entries, task, mode):
     fname = RUNS_DIR / f"{task}_{mode}_{TEAM_NAME}_1.json"
     with open(fname, "w", encoding="utf-8") as f:
@@ -130,14 +111,11 @@ def write_run(entries, task, mode):
     print(f"  Saved {len(entries)} entries -> {fname}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-
 def main():
     print("=" * 60)
     print("Task 2.3  —  Multi-label categories  (XLM-R base)")
     print("=" * 60)
 
-    # ── Load records ──
     train_recs = build_memes_records(load_json(MEMES_TRAIN_JSON), is_test=False)
     test_recs  = build_memes_records(load_json(MEMES_TEST_JSON),  is_test=True)
 
@@ -146,7 +124,6 @@ def main():
     texts_test = [r["text"] for r in test_recs]
     ids_test   = [r["id"]   for r in test_recs]
 
-    # ── Train / val split (stratify on dominant category) ──
     primary = np.argmax(Y_all, axis=1)
     sss = StratifiedShuffleSplit(n_splits=1, test_size=VAL_FRAC,
                                   random_state=RANDOM_STATE)
@@ -156,7 +133,6 @@ def main():
     texts_val = [texts_all[i] for i in val_idx]
     Y_val     = Y_all[val_idx]
 
-    # ── Fine-tune ──
     if SAVE_DIR.exists() and any(SAVE_DIR.iterdir()):
         print(f"\nLoading saved model from {SAVE_DIR}...")
         tokenizer = AutoTokenizer.from_pretrained(SAVE_DIR)
@@ -216,7 +192,6 @@ def main():
         tokenizer.save_pretrained(SAVE_DIR)
         print(f"Model saved to {SAVE_DIR}")
 
-    # ── Inference ──
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device)
 
@@ -264,7 +239,6 @@ def main():
     write_run(hard_entries, "task2_3", "hard")
     write_run(soft_entries, "task2_3", "soft")
 
-    # ── Cleanup ──
     model.cpu()
     del model
     gc.collect()

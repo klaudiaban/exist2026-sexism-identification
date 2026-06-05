@@ -1,11 +1,4 @@
-"""Regenerate the report figures with a cleaner, publication-style look.
-
-Outputs (PNG, 200 dpi):
-  figures/cv_phys_comparison.png   -- 5-fold CV: text / +image / +phys
-  figures/comparison_T21.png       -- baseline vs final, Task 2.1
-  figures/comparison_T22.png       -- baseline vs final, Task 2.2
-  figures/comparison_T23.png       -- baseline vs final, Task 2.3
-"""
+"""Regenerate the report comparison figures."""
 import json
 from pathlib import Path
 import numpy as np
@@ -17,7 +10,6 @@ ROOT = Path(__file__).parent
 FIG  = ROOT / "figures"
 FIG.mkdir(exist_ok=True)
 
-# ---- Publication-style matplotlib defaults --------------------------------
 plt.rcParams.update({
     "font.family":         "DejaVu Sans",
     "font.size":           12,
@@ -58,7 +50,6 @@ def annotate(ax, bars, fmt="{:.3f}", weight="normal"):
                     fontsize=10, color="#222222", fontweight=weight)
 
 
-# ─── 5-fold CV: with vs without phys ────────────────────────────────────────
 def cv_phys_plot():
     cv = json.loads(CV_FILE.read_text())
     tasks = ["T2.1", "T2.2", "T2.3"]
@@ -96,7 +87,6 @@ def cv_phys_plot():
     print("  wrote cv_phys_comparison.png")
 
 
-# ─── Task-level baseline vs final (one figure per task) ─────────────────────
 def task_comparison_plot(name, title, metric_labels, base_vals, final_vals,
                          out_name, ylim=None, legend_loc=None):
     x = np.arange(len(metric_labels))
@@ -125,7 +115,6 @@ def task_comparison_plot(name, title, metric_labels, base_vals, final_vals,
     ax.yaxis.grid(True, linestyle="--", alpha=0.45, zorder=0)
     ax.set_axisbelow(True)
     ax.set_title(title, pad=24)
-    # legend above the plot — never overlaps any bar
     ax.legend(loc="lower center", bbox_to_anchor=(0.5, 1.005),
               ncol=2, frameon=False, handlelength=1.5,
               columnspacing=1.6, borderaxespad=0.2)
@@ -137,7 +126,6 @@ def task_comparison_plot(name, title, metric_labels, base_vals, final_vals,
 def main():
     cv_phys_plot()
 
-    # Numbers taken from the project's slide-evaluation outputs.
     task_comparison_plot(
         "T2.1", "Task 2.1 -- Binary sexism detection",
         ["F1-Macro", "F1 (YES)", "Accuracy", "AUC"],

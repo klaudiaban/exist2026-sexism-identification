@@ -1,10 +1,4 @@
-"""
-Task 2.1: Binary sexism detection  YES / NO.
-
-Model:   XLM-RoBERTa-large full fine-tune
-         + late fusion with image/sensorial LogReg probs.
-Best val F1 achieved in experiments: ~0.8112  (a=0.95, XLM-R large + image/sensorial fusion)
-"""
+"""Task 2.1: binary sexism detection (YES/NO) using XLM-R large with image and sensor late fusion."""
 import gc
 import json
 import pickle
@@ -35,18 +29,15 @@ from config import (
 )
 from data_utils import load_json, build_memes_records
 
-# ── Constants ─────────────────────────────────────────────────────────────────
 MODEL_ID     = "xlm-roberta-large"
 SAVE_DIR     = MODELS_DIR / "xlmr_large_full_task2_1"
 CKPT_DIR     = MODELS_DIR / "xlmr_large_full_task2_1_ckpt"
-LABEL2ID     = {l: i for i, l in enumerate(TASK1_LABELS)}   # YES=0, NO=1
+LABEL2ID     = {l: i for i, l in enumerate(TASK1_LABELS)}
 ID2LABEL     = {i: l for i, l in enumerate(TASK1_LABELS)}
 MAX_LEN      = 128
 VAL_FRAC     = 0.10
 RANDOM_STATE = 42
 
-
-# ── Dataset ───────────────────────────────────────────────────────────────────
 
 class MemeDataset(Dataset):
     def __init__(self, texts, labels, tokenizer):
@@ -66,8 +57,6 @@ class MemeDataset(Dataset):
             "labels":         self.labels[i],
         }
 
-
-# ── Weighted Trainer ──────────────────────────────────────────────────────────
 
 class WeightedTrainer(Trainer):
     def __init__(self, class_weights, *args, **kwargs):
@@ -93,8 +82,6 @@ def compute_metrics(eval_pred):
     return {"f1": f1, "accuracy": acc}
 
 
-# ── Feature helpers ───────────────────────────────────────────────────────────
-
 def load_feat_ids(split: str) -> list:
     with open(FEATURES_DIR / f"{split}_ids.pkl", "rb") as f:
         return pickle.load(f)
@@ -111,8 +98,6 @@ def align_features(X_raw: np.ndarray, feat_ids: list, records: list) -> np.ndarr
     id_to_idx = {sid: i for i, sid in enumerate(feat_ids)}
     return np.array([X_raw[id_to_idx[r["id"]]] for r in records])
 
-
-# ── Inference helper ──────────────────────────────────────────────────────────
 
 def get_probs(model, tokenizer, texts, device, batch=32, col_perm=None) -> np.ndarray:
     model.eval()
@@ -144,8 +129,6 @@ def model_col_perm(model) -> list:
     return perm
 
 
-# ── Submission writer ─────────────────────────────────────────────────────────
-
 def write_run(entries, task, mode):
     fname = RUNS_DIR / f"{task}_{mode}_{TEAM_NAME}_1.json"
     with open(fname, "w", encoding="utf-8") as f:
@@ -153,14 +136,11 @@ def write_run(entries, task, mode):
     print(f"  Saved {len(entries)} entries -> {fname}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-
 def main():
     print("=" * 60)
     print("Task 2.1  --  YES / NO  (XLM-R large + late fusion)")
     print("=" * 60)
 
-    # ── Load records ──
     train_recs = build_memes_records(load_json(MEMES_TRAIN_JSON), is_test=False)
     test_recs  = build_memes_records(load_json(MEMES_TEST_JSON),  is_test=True)
 
@@ -169,7 +149,6 @@ def main():
     texts_test = [r["text"] for r in test_recs]
     ids_test   = [r["id"]   for r in test_recs]
 
-    # ── Train / val split ──
     sss = StratifiedShuffleSplit(n_splits=1, test_size=VAL_FRAC,
                                   random_state=RANDOM_STATE)
     tr_idx, val_idx = next(sss.split(texts_all, labels_all))
@@ -178,7 +157,6 @@ def main():
     texts_val  = [texts_all[i]  for i in val_idx]
     labels_val = [labels_all[i] for i in val_idx]
 
-    # ── Load and align image+sensorial features ──
     print("\nLoading image/sensorial features...")
     X_raw_train = load_image_sensorial("memes_train")
     X_raw_test  = load_image_sensorial("memes_test")
@@ -190,7 +168,6 @@ def main():
     X_feat_tr   = X_feat_all[tr_idx]
     X_feat_val  = X_feat_all[val_idx]
 
-    # ── Fusion LogReg (image + sensorial only) ──
     print("\nTraining fusion LogReg (image + sensorial)...")
     fusion_pipe = Pipeline([
         ("scaler", StandardScaler()),
@@ -199,11 +176,9 @@ def main():
     ])
     fusion_pipe.fit(X_feat_tr, labels_tr)
 
-    # fusion_pipe.classes_ is sorted → [0, 1] = [YES, NO]
     fusion_val_probs  = fusion_pipe.predict_proba(X_feat_val)
     fusion_test_probs = fusion_pipe.predict_proba(X_feat_test)
 
-    # ── Fine-tune XLM-R large ──
     if SAVE_DIR.exists() and any(SAVE_DIR.iterdir()):
         print(f"\nLoading saved model from {SAVE_DIR}...")
         tokenizer = AutoTokenizer.from_pretrained(SAVE_DIR)
@@ -267,7 +242,6 @@ def main():
         tokenizer.save_pretrained(SAVE_DIR)
         print(f"Model saved to {SAVE_DIR}")
 
-    # ── Inference ──
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device)
     perm = model_col_perm(model)
@@ -276,7 +250,6 @@ def main():
     xlmr_val_probs  = get_probs(model, tokenizer, texts_val,  device, col_perm=perm)
     xlmr_test_probs = get_probs(model, tokenizer, texts_test, device, col_perm=perm)
 
-    # ── Late fusion sweep (α × xlmr + (1-α) × logReg) ──
     print("\nSweeping fusion alpha...")
     labels_val_arr = np.array(labels_val)
     best_alpha, best_f1 = 0.0, -1.0
@@ -296,7 +269,6 @@ def main():
     best_acc   = (best_preds == labels_val_arr).mean()
     print(f"\nBest: a={best_alpha:.2f}  val F1={best_f1:.4f}  acc={best_acc:.4f}")
 
-    # ── Test predictions ──
     fused_test = best_alpha * xlmr_test_probs + (1 - best_alpha) * fusion_test_probs
     hard_preds = np.argmax(fused_test, axis=-1)
 
@@ -313,7 +285,6 @@ def main():
     write_run(hard_entries, "task2_1", "hard")
     write_run(soft_entries, "task2_1", "soft")
 
-    # ── Cleanup ──
     model.cpu()
     del model
     gc.collect()

@@ -1,11 +1,4 @@
-"""
-Task 2.2: Sexism type classification  NO / DIRECT / JUDGEMENTAL.
-
-Model: XLM-RoBERTa-large + LoRA
-       + oversampling minority classes to balance training set
-       + focal loss  (gamma=2, focuses training on hard/minority examples)
-       + late fusion with image/sensorial LogReg probs.
-"""
+"""Task 2.2: sexism type (NO/DIRECT/JUDGEMENTAL) using XLM-R large with LoRA, focal loss and late fusion."""
 import gc
 import json
 import pickle
@@ -38,11 +31,10 @@ from config import (
 )
 from data_utils import load_json, build_memes_records
 
-# ── Constants ─────────────────────────────────────────────────────────────────
 MODEL_ID     = "xlm-roberta-large"
 SAVE_DIR     = MODELS_DIR / "xlmr_large_task2_2_oversampled"
 CKPT_DIR     = MODELS_DIR / "xlmr_large_task2_2_oversampled_ckpt"
-LABEL2ID     = {l: i for i, l in enumerate(TASK2_LABELS)}   # NO=0, DIRECT=1, JUDGEMENTAL=2
+LABEL2ID     = {l: i for i, l in enumerate(TASK2_LABELS)}
 ID2LABEL     = {i: l for i, l in enumerate(TASK2_LABELS)}
 MAX_LEN      = 128
 VAL_FRAC     = 0.10
@@ -51,8 +43,6 @@ FOCAL_GAMMA  = 2.0
 LORA_R       = 16
 LORA_ALPHA   = 32
 
-
-# ── Dataset ───────────────────────────────────────────────────────────────────
 
 class MemeDataset(Dataset):
     def __init__(self, texts, labels, tokenizer):
@@ -72,8 +62,6 @@ class MemeDataset(Dataset):
             "labels":         self.labels[i],
         }
 
-
-# ── Focal Loss Trainer ────────────────────────────────────────────────────────
 
 class FocalLossTrainer(Trainer):
     def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
@@ -95,8 +83,6 @@ def compute_metrics(eval_pred):
     return {"f1": f1, "accuracy": acc}
 
 
-# ── Oversampling ──────────────────────────────────────────────────────────────
-
 def oversample_indices(labels: list, random_state: int = 42) -> list:
     """Upsample minority classes to match majority count. Training split only."""
     rng = np.random.RandomState(random_state)
@@ -114,8 +100,6 @@ def oversample_indices(labels: list, random_state: int = 42) -> list:
     return [all_idx[i] for i in perm]
 
 
-# ── Feature helpers ───────────────────────────────────────────────────────────
-
 def load_feat_ids(split: str) -> list:
     with open(FEATURES_DIR / f"{split}_ids.pkl", "rb") as f:
         return pickle.load(f)
@@ -131,8 +115,6 @@ def align_features(X_raw: np.ndarray, feat_ids: list, records: list) -> np.ndarr
     id_to_idx = {sid: i for i, sid in enumerate(feat_ids)}
     return np.array([X_raw[id_to_idx[r["id"]]] for r in records])
 
-
-# ── Inference helpers ─────────────────────────────────────────────────────────
 
 def get_probs(model, tokenizer, texts, device, batch=32, col_perm=None) -> np.ndarray:
     model.eval()
@@ -161,8 +143,6 @@ def model_col_perm(model) -> list:
     return perm
 
 
-# ── Submission writer ─────────────────────────────────────────────────────────
-
 def write_run(entries, task, mode):
     fname = RUNS_DIR / f"{task}_{mode}_{TEAM_NAME}_1.json"
     with open(fname, "w", encoding="utf-8") as f:
@@ -170,15 +150,12 @@ def write_run(entries, task, mode):
     print(f"  Saved {len(entries)} entries -> {fname}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-
 def main():
     print("=" * 60)
     print("Task 2.2  --  NO / DIRECT / JUDGEMENTAL")
     print("Model: XLM-R large + LoRA + oversampling + focal loss + fusion")
     print("=" * 60)
 
-    # ── Load records ──
     train_recs = build_memes_records(load_json(MEMES_TRAIN_JSON), is_test=False)
     test_recs  = build_memes_records(load_json(MEMES_TEST_JSON),  is_test=True)
 
@@ -187,7 +164,6 @@ def main():
     texts_test = [r["text"] for r in test_recs]
     ids_test   = [r["id"]   for r in test_recs]
 
-    # ── Train / val split ──
     sss = StratifiedShuffleSplit(n_splits=1, test_size=VAL_FRAC,
                                   random_state=RANDOM_STATE)
     tr_idx, val_idx = next(sss.split(texts_all, labels_all))
@@ -196,7 +172,6 @@ def main():
     texts_val     = [texts_all[i]  for i in val_idx]
     labels_val    = [labels_all[i] for i in val_idx]
 
-    # ── Load and align image+sensorial features ──
     print("\nLoading image/sensorial features...")
     X_raw_train    = load_image_sensorial("memes_train")
     X_raw_test     = load_image_sensorial("memes_test")
@@ -208,7 +183,6 @@ def main():
     X_feat_tr_raw = X_feat_all[tr_idx]
     X_feat_val    = X_feat_all[val_idx]
 
-    # ── Oversample minority classes (training split only) ──
     print("\nClass distribution before oversampling:",
           dict(sorted(Counter(labels_tr_raw).items())))
     os_idx    = oversample_indices(labels_tr_raw, random_state=RANDOM_STATE)
@@ -219,7 +193,6 @@ def main():
           dict(sorted(Counter(labels_tr).items())))
     print(f"Training samples: {len(labels_tr_raw)} -> {len(labels_tr)}")
 
-    # ── Fusion LogReg (image + sensorial, balanced training data) ──
     print("\nTraining fusion LogReg (image + sensorial)...")
     fusion_pipe = Pipeline([
         ("scaler", StandardScaler()),
@@ -229,7 +202,6 @@ def main():
     fusion_val_probs  = fusion_pipe.predict_proba(X_feat_val)
     fusion_test_probs = fusion_pipe.predict_proba(X_feat_test)
 
-    # ── Fine-tune with LoRA ──
     if SAVE_DIR.exists() and any(SAVE_DIR.iterdir()):
         print(f"\nLoading saved model from {SAVE_DIR}...")
         tokenizer = AutoTokenizer.from_pretrained(SAVE_DIR)
@@ -304,7 +276,6 @@ def main():
         model = model.merge_and_unload()
         print("LoRA weights merged into base model for inference.")
 
-    # ── Inference ──
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device)
     perm = model_col_perm(model)
@@ -313,7 +284,6 @@ def main():
     xlmr_val_probs  = get_probs(model, tokenizer, texts_val,  device, col_perm=perm)
     xlmr_test_probs = get_probs(model, tokenizer, texts_test, device, col_perm=perm)
 
-    # ── Late fusion sweep ──
     print("\nSweeping fusion alpha...")
     labels_val_arr = np.array(labels_val)
     best_alpha, best_f1 = 0.0, -1.0
@@ -333,7 +303,6 @@ def main():
     best_acc   = (best_preds == labels_val_arr).mean()
     print(f"\nBest: a={best_alpha:.2f}  val F1={best_f1:.4f}  acc={best_acc:.4f}")
 
-    # ── Test predictions ──
     fused_test = best_alpha * xlmr_test_probs + (1 - best_alpha) * fusion_test_probs
     hard_preds = np.argmax(fused_test, axis=-1)
 
@@ -350,7 +319,6 @@ def main():
     write_run(hard_entries, "task2_2", "hard")
     write_run(soft_entries, "task2_2", "soft")
 
-    # ── Cleanup ──
     model.cpu()
     del model
     gc.collect()
